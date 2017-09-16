@@ -286,8 +286,7 @@ header .entry-meta {
 	@media #{$large} {
 		max-width: 800px;
 		padding: 50px 80px;
-		margin-top: 60px
-		margin-bottom: 40px;
+		margin: 60px auto;
 	}
 	text-align: center;
 	@include clearfix;
@@ -458,7 +457,7 @@ ul.social-buttons li a:active {
 // --------------------------------------------------
 .footer-wrapper {
 	@include clearfix;
-	margin-bottom: 3em;
+	margin: 2em auto;
 	text-align: center;
 	color: lighten($text-color,20);
 	a {
