@@ -286,7 +286,8 @@ header .entry-meta {
 	@media #{$large} {
 		max-width: 800px;
 		padding: 50px 80px;
-		margin: 60px auto;
+		margin-top: 60px
+		margin-bottom: 40px;
 	}
 	text-align: center;
 	@include clearfix;
