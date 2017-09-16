@@ -1,5 +1,4 @@
 title: Monitores Gaming
-baseurl: /losazul.github.io
 description: ¿En qué hay que fijarse antes de comprar un monitor? Te enseñamos los monitores con mejor calidad-preccio del mercado. Los monitores más potentes, bonitos y baratos.
 # put your disqus here
 disqus_shortname:
@@ -10,7 +9,7 @@ excerpt_separator: <!--more-->
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 
-url: http://aronbordin.com/neo-hpstr-jekyll-theme
+url: /losazul.github.io
 
 # draw your top menu here
 # each item must have a title and a url.
