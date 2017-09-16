@@ -457,7 +457,7 @@ ul.social-buttons li a:active {
 // --------------------------------------------------
 .footer-wrapper {
 	@include clearfix;
-	margin: 2em auto;
+	margin-bottom: 3em;
 	text-align: center;
 	color: lighten($text-color,20);
 	a {
