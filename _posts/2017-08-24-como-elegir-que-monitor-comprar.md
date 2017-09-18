@@ -94,7 +94,7 @@ Hay que tener <b>dos</b> aspectos del color en cuenta: cuántos colores puede re
 <br>
 Otra característica importante es la <b>gama de color (gamut)</b> del monitor: el <b>espectro de colores que puede reproducir</b> la pantalla. Se suele expresar en porcentajes de un espacio de color determinado.
 
-Debes <b>tener cuidado</b> con los <b>trucos matemáticos</b>. En los monitores <b>baratos</b>, los fabricantes suelen especificar <b>72% de NTSC</b>, pero esto es bastante <b>más pequeño</b> que el 100% del espacio <b>sRGB</b> - sRGB es el 90% del espacio NTSC. También verás la gama de color de un monitor especificada como <b>16,7 millones</b> o <b>1 billón</b> de colores, que es otra forma de decir <b>sGRB</b> y <b>Adobe RGB</b> o <b>DCI P3</b> respectivamente. A no ser que que trabajes en diseño gráfico, o quieras ver películas en HDR, <b>una pantalla con el 99-100% del espacio sGRB es suficiente</b>. 
+Debes <b>tener cuidado</b> con los <b>trucos matemáticos</b>. En los monitores <b>baratos</b>, los fabricantes suelen especificar <b>72% de NTSC</b>, pero esto puede ser bastante <b>más pequeño</b> que el 100% del espacio <b>sRGB</b>. También verás la gama de color de un monitor especificada como <b>16,7 millones</b> o <b>1 billón</b> de colores, que es otra forma de decir <b>sGRB</b> y <b>Adobe RGB</b> o <b>DCI P3</b> respectivamente. A no ser que que trabajes en diseño gráfico, o quieras ver películas en HDR, <b>una pantalla con el 99-100% del espacio sGRB es suficiente</b>. 
  <br><br>
 <font color="">	<b>Resumen de esta sección:</b></font>
 -	No te dejes engañar por trucos matemáticos en las gamas de color.
