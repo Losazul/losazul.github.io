@@ -43,13 +43,13 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________
 
-En el juego, percibir más el medio que nos rodea es extremadamente conveniente en cuanto a inmersión. <b>La experiencia se vuelve absorvente</b>. 
+En el juego, percibir más el medio que nos rodea es extremadamente conveniente en cuanto a inmersión. <b>La experiencia se vuelve absorbente</b>. 
 
 Hay una larga <a target="_blank" href="http://www.wsgf.org/mgl/ef_s/"><b><font color="#1a0dab">lista</font></b></a> de títulos compatibles con la proporción<b> 21:9</b>. Si tu juego no está en ella no significa que no funcione (por ejemplo, <b>Mass Effect 3</b>); pero si lo está, es buena señal.
 
 <b><font size="5" color="black">21:9 para películas</font></b><br>
 
-Al igual que con los videojuegos, ver una <b>película</b> también se vuelve <b>absorvente</b> al hacerlo en un <b>monitor ultra-wide</b>.
+Al igual que con los videojuegos, ver una <b>película</b> también se vuelve <b>absorbente</b> al hacerlo en un <b>monitor ultra-wide</b>.
 <br><center><img src="https://i.imgur.com/qk0rLkk.jpg"></center><font size="3"><br></font>
 Las proporciones más comunes son <b>16:9</b> y algo que se asemeja a UltraWide - normalmente entre <b>2.35:1</b> y <b>2.40:1</b>. El primero es el más común en contenido que se emitió originalmente en la televisión (series, por ejemplo). Este contenido rellena una pantalla <b>16:9</b> sin dejar bordes negros, pero normalmente sí que los deja en un monitor UltraWide.<br>
 <br><center><img src="https://i.imgur.com/s3e9M8K.jpg"></center><font size="3"><br></font>
