@@ -11,7 +11,7 @@ tags: [TV, monitor, televisión, tutorial, limpieza, polvo, mancha, líquido]
 
 <!--foto antigua
 <center><IMG SRC="http://i.imgur.com/QaDXrW0.png"></center>-->
-En cualquier pantalla, tanto si intentas eliminar el polvo de tu monitor, la marcas de huellas de tu nueva televisión HD, limpiar la suciedad o eliminar la grasa; se requiere de las herramientas de limpieza necesarias, así como de un uso adecuado.
+En cualquier pantalla, tanto si intentas eliminar el polvo de tu monitor, la marcas de huellas de tu nueva televisión HD, limpiar la suciedad o eliminar la grasa; se requiere de las herramientas de limpieza adecuadas, así como de un uso adecuado.
 <br><br>
 <!--more-->
 <!-- more -->
