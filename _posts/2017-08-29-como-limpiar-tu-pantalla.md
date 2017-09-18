@@ -43,7 +43,7 @@ Antes de empezar, merece la pena decir que el mejor modo de limpiarla es <b>evit
 <b>Hazte con una bayeta de microfibra</b> - hay varios packs por menos de 10€ en Amazon.
 <br><br>
 <center><IMG SRC="https://i.imgur.com/iJNExK3.jpg" width="50%"></center>
-<center><a href="aa" class="btn-infor"><font size="4">Más info</font></a>             <a href="aa" class="btn-ama"><font size="4">Comprar en Amazon</font></a></center>
+<center><a href="https://www.amazon.es/AmazonBasics-Bayeta-limpieza-microfibra-unidades/dp/B009FUF6DM/" class="btn-infor"><font size="4">Más info</font></a>             <a href="https://www.amazon.es/AmazonBasics-Bayeta-limpieza-microfibra-unidades/dp/B009FUF6DM/" class="btn-ama"><font size="4">Comprar en Amazon</font></a></center>
 <br>
 Las siguientes instrucciones deben ser seguidas en orden. <b>Al acabar un paso, solo debes proceder al siguiente si sigue quedando suciedad.</b> Si con un sólo paso basta, mejor que mejor.
 
