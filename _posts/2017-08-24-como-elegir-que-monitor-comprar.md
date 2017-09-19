@@ -22,7 +22,7 @@ En lo que respecta a los monitores gaming, **el tamaño importa**. Cada vez nace
 <br /><br />
 <img src="/images/pictures/comparaciones-resolucion.jpg">
 <br /><br />
-Los nuevos monitores **UltraWide** te pueden dar una de las **mayores ventajas** que podemos conseguir en el **mundo competitivo de los videojuegos**, gracias al **aumento de campo de visión horizontal**. El gran «pero» es que no son baratos. En **<a href="{% post_url 2017-09-9-experiencia-21-9 %}" target="blank"><font color="#1a0dab">este artículo</font></a>** te explicamos más sobre los monitores UltraWide y cómo funciona ese aumento en nuestro campo de visión.
+Los nuevos monitores **UltraWide** te pueden dar una de las **mayores ventajas** que podemos conseguir en el **mundo competitivo de los videojuegos**, gracias al **aumento de campo de visión horizontal**. El gran «pero» es que no son baratos. En **<a href="{% post_url 2017-09-9-Monitores-Ultrawide-experiencia-21-9 %}" target="blank"><font color="#1a0dab">este artículo</font></a>** te explicamos más sobre los monitores UltraWide y cómo funciona ese aumento en nuestro campo de visión.
 <br /><br />
 **Resumen de esta sección:**
 -	No compres monitores con menos de 23".
