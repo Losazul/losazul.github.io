@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lo que no sabías de la experiencia 21:9"
+title:  "Monitores Ultrawide: lo que no sabías de la experiencia 21:9"
 date:   2017-09-09 21:55:55 +0200
 excerpt: Desde sumergirte en tus mundos favoritos, hasta sacar ventaja en los juegos competitivos. ¡Te explicamos lo que no sabías de la experiencia que nos ofrecen los monitores UltraWide!
 categories: articulos
