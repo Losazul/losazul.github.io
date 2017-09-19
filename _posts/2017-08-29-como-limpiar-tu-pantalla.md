@@ -43,7 +43,7 @@ Antes de empezar, merece la pena decir que el mejor modo de limpiarla es <b>evit
 <b>Hazte con una bayeta de microfibra</b> - hay varios packs por menos de 10€ en Amazon.
 <br><br>
 <center><IMG SRC="https://i.imgur.com/iJNExK3.jpg" width="50%"></center>
-<center><a href="https://www.amazon.es/AmazonBasics-Bayeta-limpieza-microfibra-unidades/dp/B009FUF6DM/" class="btn-infor"><font size="4">Más info</font></a>             <a href="https://www.amazon.es/AmazonBasics-Bayeta-limpieza-microfibra-unidades/dp/B009FUF6DM/" class="btn-ama"><font size="4">Comprar en Amazon</font></a></center>
+<center><a href="http://amzn.to/2fvkJdt" class="btn-infor"><font size="4">Más info</font></a>             <a href="http://amzn.to/2fvkJdt" class="btn-ama"><font size="4">Comprar en Amazon</font></a></center>
 <br>
 Las siguientes instrucciones deben ser seguidas en orden. <b>Al acabar un paso, solo debes proceder al siguiente si sigue quedando suciedad.</b> Si con un sólo paso basta, mejor que mejor.
 
@@ -64,6 +64,3 @@ Las siguientes instrucciones deben ser seguidas en orden. <b>Al acabar un paso, 
 _____________________________________________________________________________________
 <br>Esto es todo: quitar el polvo, usar sólo bayetas de microfibra, y nunca utilizar productos de limpieza más allá de agua destilada o la mezcla 50/50 ya descrita anteriormente. De esta forma, evitarás dañar la pantalla con productos químicos, desgastarla y/o arañarla.
 <br>
-<!-- https://www.amazon.es/Hama-005610-Pera-limpiadora-cámaras/dp/B00006JDW1/ref=sr_1_1?s=electronics&ie=UTF8&qid=1504965147&sr=1-1&keywords=pera+limpiadora+camaras -->
-<!-- https://www.amazon.es/AmazonBasics-Bayeta-limpieza-microfibra-unidades/dp/B009FUF6DM/ref=sr_1_1?ie=UTF8&qid=1504965122&sr=8-1&keywords=microfibra+amazon
--->
