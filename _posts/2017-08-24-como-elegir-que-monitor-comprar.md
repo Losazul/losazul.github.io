@@ -6,7 +6,7 @@ excerpt: Actualmente hay una inmensa oferta de monitores, y sigue aumentando sin
 tags: [monitor, acer, asus, hdmi, dell, hp, ibm, nvidia, samsumg, leg]
 categories: guias-de-compra
 image:
-    feature: guiacomprar.png
+    feature: guiacomprar.jpg
 ---
 <!--more-->
 <!-- more -->
@@ -22,7 +22,7 @@ Seas un gamer de sangre o un jugador casual, tu hardware <b>puede marcar la dife
 
 En lo que respecta a los monitores gaming, <b>el tamaño importa</b>. Cada vez nacen más monitores con <b>resoluciones mayores</b>. Este mayor número de píxeles genera una <b>imagen mucho más definida</b> que la estándar Full HD, pero necesitarás una tarjeta gráfica <b>(GPU) razonablemente potente</b> para jugar con las opciones gráficas al máximo, especialmente con todos los efectos activados. En caso de que <b>tu presupuesto no sea muy alto</b>, aún puedes dar un gran paso en definición actualizando a <b>2.560x1.440 (2K)</b>. Si tienes una de las GPU más potentes del mercado y <b>el dinero no es tu problema</b>, podrás adquirir un monitor resolución <b>3.840x2.160 (4K)</b>, en los que la <b>nitidez</b> es practicamente <b>inmejorable</b>.
 <br><br>
-<img src="/images/pictures/comparaciones-resolucion.png">
+<img src="/images/pictures/comparaciones-resolucion.jpg">
 <br><br>
 Los nuevos monitores <b>UltraWide</b> te pueden dar una de las <b>mayores ventajas</b> que podemos conseguir en el <b>mundo competitivo de los videojuegos</b>, gracias al <b>aumento de campo de visión horizontal</b>. El gran «pero» es que no son baratos. En <a href="{% post_url 2017-09-9-experiencia-21-9 %}" target="blank"><b><font color="#1a0dab">este artículo</font></b></a> te explicamos más sobre los monitores UltraWide y cómo funciona ese aumento en nuestro campo de visión.
 <br><br>

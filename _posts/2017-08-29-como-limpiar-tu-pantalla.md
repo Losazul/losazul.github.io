@@ -15,7 +15,7 @@ En cualquier pantalla, tanto si intentas eliminar el polvo de tu monitor, la mar
 <br><br>
 <!--more-->
 <!-- more -->
-<center><IMG SRC="/images/pictures/limpiar.png"></center><br><br>
+<center><IMG SRC="/images/pictures/limpiar.jpg"></center><br><br>
 <b> <font size="5">¿Por qué debería preocuparme?</font></b>
 
 Limpiar incorrectamente la pantalla, sea de monitor o de televisión, <b>es un gran riesgo que puede acabar estropeándola</b>. Los monitores y televisiones modernas HDTV son más brillantes, nítidas y caras que nunca; pero además, son más delicadas. Crear una imagen tan detallada en un formato tan delgado lleva un proceso largo de mágica fabricación, y una limpieza con un bote de Wintex y un trapo de la cocina es una forma segura de acortar la vida de tu pantalla, así como de arruinar la imagen.
@@ -23,7 +23,7 @@ Limpiar incorrectamente la pantalla, sea de monitor o de televisión, <b>es un g
 Es fácil limpiar correctamente la pantalla, al igual que manternela a salvo de golpes y caídas.
 
 <b> <font size="5">Errores a evitar</font></b>
-<center><IMG SRC="https://i.imgur.com/KU7OuE7.jpg"></center><font size="3"><br></font>
+<center><IMG SRC="/images/pictures/errores-limpieza.jpg"></center><font size="3"><br></font>
 
 - <b> Nunca aplicar un producto directamente sobre la pantalla</b>. Las pantallas planas están fabricadas capa sobre capa con materiales diversos, que pueden llegar a ser muy finos. Cuando el líquido toca la superficie de la pantalla, éste puede filtrarse fácilmente, por acción capilar, hacia las capas internas; de la misma manera que el agua se mueve a través de la ropa cuando la toca (la foto anterior es un ejemplo).
 
@@ -34,7 +34,7 @@ Es fácil limpiar correctamente la pantalla, al igual que manternela a salvo de 
 <b>Si puedes seguir firmemente estas tres últimas reglas, evitarás casi cualquier problema que la limpieza pueda causar.</b>
 
 <b> <font size="5">Cómo limpiar de forma segura tu pantalla</font></b>
-<center><IMG SRC="https://i.imgur.com/TIKgAQb.jpg"></center>
+<center><IMG SRC="/images/pictures/limpiar-forma-segura.jpg"></center>
 
 Antes de empezar, merece la pena decir que el mejor modo de limpiarla es <b>evitar tener que limpiarla</b>. Esto significa enseñar a la familia (especialmente niños) a <b>no tocar la pantalla</b>, por mucho que quieran señalar algo. Mientras menos limpieza se necesite, mejor. La <b>grasa</b> y varios tipos de manchas son más <b>difícil de eliminar</b> que las partículas de polvo. Dicho esto, incluso en la más limpia de las casas, <b>un poco de limpieza debe darse de vez en cuando</b>.
 <br><br>
@@ -42,7 +42,7 @@ Antes de empezar, merece la pena decir que el mejor modo de limpiarla es <b>evit
 
 <b>Hazte con una bayeta de microfibra</b> - hay varios packs por menos de 10€ en Amazon.
 <br><br>
-<center><IMG SRC="https://i.imgur.com/iJNExK3.jpg" width="50%"></center>
+<center><IMG SRC="/images/pictures/bayetas-microfibra.jpg" width="50%"></center>
 <center><a href="http://amzn.to/2fvkJdt" class="btn-infor"><font size="4">Más info</font></a>             <a href="http://amzn.to/2fvkJdt" class="btn-ama"><font size="4">Comprar en Amazon</font></a></center>
 <br>
 Las siguientes instrucciones deben ser seguidas en orden. <b>Al acabar un paso, solo debes proceder al siguiente si sigue quedando suciedad.</b> Si con un sólo paso basta, mejor que mejor.
