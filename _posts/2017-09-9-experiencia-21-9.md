@@ -45,7 +45,7 @@ ________________________________________________________________________________
 
 En el juego, percibir más el medio que nos rodea es extremadamente conveniente en cuanto a inmersión. <b>La experiencia se vuelve absorbente</b>. 
 
-Hay una larga <a target="_blank" href="http://www.wsgf.org/mgl/ef_s/"><font color="#1a0dab"><b>lista</b></font></a> de títulos compatibles con la proporción<b> 21:9</b>. Si tu juego no está en ella no significa que no funcione (por ejemplo, <b>Mass Effect 3</b>); pero si lo está, es buena señal.
+Hay una larga <b><a target="_blank" href="http://www.wsgf.org/mgl/ef_s/"><font color="#1a0dab">lista</font></a></b> de títulos compatibles con la proporción<b> 21:9</b>. Si tu juego no está en ella no significa que no funcione (por ejemplo, <b>Mass Effect 3</b>); pero si lo está, es buena señal.
 
 <b><font size="5" color="black">21:9 para películas</font></b><br>
 
