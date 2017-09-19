@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 
-url: http://monitoresgaming.com
+url: https://monitoresgaming.com
 
 # draw your top menu here
 # each item must have a title and a url.
@@ -50,7 +50,7 @@ owner:
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
-twitter: 
+twitter:
 
 twitter_username:     MonitoresGaming
 google_plus_username: 109135587340475039837
@@ -69,14 +69,14 @@ social:
 background: pattern.png
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: 
+google_analytics:
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
-locale:      en_US
+locale:      es_ES
 future:      true
 highlighter: rouge
 markdown:    kramdown

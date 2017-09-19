@@ -11,8 +11,8 @@ tags: [cine, gaming, peliculas,monitor, pantalla, UltraWide, 4K, 2K,21&#58;9]
 <!--more-->
 <!-- more -->
 <b><font size="5" color="black">21:9 en el escritorio</font></b><br>
- 
- En este artículo comparamos la proporción <b> 21:9</b> y <b>16:9</b> para daros una idea de cuánto espacio se gana con el monitor de mayor proporción (a mismos píxeles por pulgada). Los modelos de <b>29"</b> son interesantes porque utilizan una resolución <b>2560x1080</b>, combinando una componente horizontal <b>WQHD</b> con una vertical <b>Full HD</b>. Todo esto unido a su anchura con relación de aspecto <b>21:9</b>, nos otorga una increible <b>vista panorámica</b> en el escritorio. 
+
+ En este artículo comparamos la proporción <b> 21:9</b> y <b>16:9</b> para daros una idea de cuánto espacio se gana con el monitor de mayor proporción (a mismos píxeles por pulgada). Los modelos de <b>29"</b> son interesantes porque utilizan una resolución <b>2560x1080</b>, combinando una componente horizontal <b>WQHD</b> con una vertical <b>Full HD</b>. Todo esto unido a su anchura con relación de aspecto <b>21:9</b>, nos otorga una increible <b>vista panorámica</b> en el escritorio.
 <br>
 <center><img src="https://i.imgur.com/VFnAooH.jpg"></center><br>
 Abrir un sólo programa significa la aparación de exceso de <b>«espacio blanco»</b>.
@@ -43,7 +43,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________
 
-En el juego, percibir más el medio que nos rodea es extremadamente conveniente en cuanto a inmersión. <b>La experiencia se vuelve absorbente</b>. 
+En el juego, percibir más el medio que nos rodea es extremadamente conveniente en cuanto a inmersión. <b>La experiencia se vuelve absorbente</b>.
 
 Hay una larga <b><a target="_blank" href="http://www.wsgf.org/mgl/ef_s/"><font color="#1a0dab">lista</font></a></b> de títulos compatibles con la proporción<b> 21:9</b>. Si tu juego no está en ella no significa que no funcione (por ejemplo, <b>Mass Effect 3</b>); pero si lo está, es buena señal.
 
@@ -61,6 +61,6 @@ Lo mejor de la proporción <b>21:9</b> es que podemos <b>sumergirnos en la mayor
 
 Los monitores crecen en tamaño y resolución, con una gran variedad de relativamente caras pero deseables características que tientan a los usuarios. Hay que tener en cuenta que <b>a mayor resolución y tamaño</b>, <b>mayor poder necesita nuestra GPU</b>. Por ello, para monitores UltraWide no se recomienda 4K (a no ser que tengamos la mejor de las mejores gráficas), sino 2K. No obstante, las tarjetas gráficas siguen evolucionando cada día, por lo que pronto esto dejará de ser un problema.
 
-Como ya sabrás si has leído hasta aquí, <b>la mayoría de los juegos ofrecen soporte a las pantallas UltraWide</b>. Sin embargo, en películas la ayuda no está tan extendida (aunque tampoco es un problema). Los monitores UltraWide tienen una gran cantidad de ventajas para Gaming y cine, pero <b>serán tus necesidades y presupuesto</b>, las que <b>determinen la decisión final</b>. 
+Como ya sabrás si has leído hasta aquí, <b>la mayoría de los juegos ofrecen soporte a las pantallas UltraWide</b>. Sin embargo, en películas la ayuda no está tan extendida (aunque tampoco es un problema). Los monitores UltraWide tienen una gran cantidad de ventajas para Gaming y cine, pero <b>serán tus necesidades y presupuesto</b>, las que <b>determinen la decisión final</b>.
 
-En <b><a href="http://localhost:4000/guias-de-compra/mejores-monitores-gaming/" target="blank"><font color="#1a0dab">este artículo</font></a></b> recopilamos los mejores monitores gaming, incluido el <b>mejor UltraWide</b>.
+En <b><a href="{% post_url 2017-09-6-mejores-monitores-gaming %}" target="blank"><font color="#1a0dab">este artículo</font></a></b> recopilamos los mejores monitores gaming, incluido el <b>mejor UltraWide</b>.
