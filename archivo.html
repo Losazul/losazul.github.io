@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Archivo
-description: "Todos nuestros posts ordenados por categorías."
+description: "Todos nuestroas entradas ordenadas por categorías."
 comments: false
 ---
 
@@ -21,15 +21,15 @@ comments: false
 	<article>
 <!-- basura -->
     {% if this_word == 'articulos' %}
-	<h2 class="tag-heading">Artículos</h2>
+	<h2 class="tag-heading"><br />Artículos</h2>
     {% elsif this_word == 'guias-de-compra' %}
-  <h2 class="tag-heading">Guías de compra</h2>
+  <h2 class="tag-heading"><br />Guías de compra</h2>
     {% endif %}
 <!-- basura -->
 		<ul>
     {% for post in site.categories[this_word] %}{% if post.title != null %}
       <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-    {% endif %}{% endfor %}
+    {% endif %}{% endfor %}<br />
 		</ul>
 	</article><!-- /.hentry -->
 {% endunless %}{% endfor %}

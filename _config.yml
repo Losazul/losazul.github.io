@@ -1,5 +1,5 @@
 title: Monitores Gaming
-description: ¿En qué hay que fijarse antes de comprar un monitor? Te enseñamos los monitores con mejor calidad-precio del mercado. Los monitores más potentes, bonitos y baratos.
+description: Monitores Gaming, el sitio de referencia de pantallas para PC. ¿HD o 4k? ¿Samsung o Asus? ¿Dell o HP? ¡Analizamos los mejores modelos de 2017!
 # put your disqus here
 disqus_shortname:
 reading_time:     true # if true, shows the estimated reading time for a post
@@ -26,7 +26,7 @@ menu:
 #  - title: 'Archivo'
 #    url: '/tags'
   - title: 'Archivo'
-    url: '/categories'
+    url: '/archivo'
 #    type: 'categories'
 #  - title: 'Favorites'
 #    url: '#'
@@ -39,18 +39,18 @@ menu:
 # Owner/author information
 owner:
   name:            #Your name
-  site:           /losazul.github.io
+  site:           https://monitoresgaming.com
   avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "Creador de Monitores Gaming"
   email:          you@email.com
   # Twitter nick for use in Twitter cards and follow button.
-  twitter: # if no twitter in this config, the twitter follow button will be removed
+  twitter: monitoresgaming # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
   github: aron-bordin
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
-twitter:
+twitter: MonitoresGaming
 
 twitter_username:     MonitoresGaming
 google_plus_username: 109135587340475039837

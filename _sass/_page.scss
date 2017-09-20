@@ -14,6 +14,10 @@ body {
     margin-right: auto
 }
 
+.noseparar{
+	white-space:nowrap 
+}
+
 #div.avatar {
     /* cambia estos dos valores para definir el tamaño de tu círculo */
     height: 100px;
