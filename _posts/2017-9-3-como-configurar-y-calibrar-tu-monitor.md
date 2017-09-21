@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La configuración y calibración óptima para tu monitor"
+title: "La configuración óptima para tu monitor"
 date:   2017-09-3 21:55:55 +0200
 excerpt: Sigue estos pasos para sacar el máximo rendimiento a tu pantalla. Si quieres disfrutar de la mejor imagen posible, la configuración de un nuevo monitor va más allá de sacarlo de la caja.
 image:
