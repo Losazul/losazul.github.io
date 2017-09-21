@@ -11,7 +11,6 @@ tags: [tecnología, dispositivos, calibración, Windows, PC, monitores, accesori
 ---
 
 <!-- more -->
-
 Comprar un nuevo monitor puede otorgar vida nueva a tu ordenador: un texto más nítido, aumento del espacio de trabajo, además de mayor y mejor imagen.
 
 Si nos limitamos a enchufar el nuevo monitor no siempre obtendremos los mejores resultados, por lo que merece la pena tomar un poco de tiempo configurándolo correctamente para poder disfrutar de tu nuevo monitor al máximo.
