@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cómo limpiar correctamente tu pantalla"
+title:  "Cómo limpiar de forma segura tu pantalla"
 date:   2017-08-29 21:55:55 +0200
 excerpt: Los métodos populares son un peligro para la salud de tu monitor. En este artículo te enseñamos las herramientas y el procedimiento adecuado para la limpieza de la pantalla.
 image:
