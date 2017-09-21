@@ -41,7 +41,7 @@ Seleccionamos la **crème de la crème** entre los mejores fabricantes. Pero est
 </div>
     Si quieres huir de la resolución estándar 1080p pero no te puedes permitir full 4K, el modelo <b>Dell S2417DG</b> es la solución perfecta. No te dejes llevar por la modesta apariencia de los monitores Dell, ya que están diseñados para <b>verdaderos gamers</b>. Esta pantalla <b>2560x1440 (2K)</b> ofrece <b>rapidez</b> con tiempos de respuesta de <b> 1ms</b>, inmersión con <b>vivos colores</b>, y <b>fluidez</b> con unas frecuencias de actualización <b>165Hz</b>.
 </div>Cuenta con un <b>soporte ergodinámico</b> para producir una experiencia de juego mejorada.  La joya de la corona, sin duda, se trata de su compatibilidad con la tecnología <b>G-Sync de Nvidia</b>, encargada de reproducir la imagen con una <b>fluidez sobresaliente</b>. Dell S24 es, con seguridad, <b>uno de los mejores</b> monitores con <b>resolución 1440p</b> disponibles en este rango de precio.
-<br /><a href="/guias-de-compra/rewiew-S2417DG/" target="_blank" class="btn-infor"><font size="4">Más info</font></a><a href="http://amzn.to/2fw41eb" target="_blank" class="btn-ama"><font size="4">Comprar en Amazon</font></a>
+<br /><a href="/guias-de-compra/rewiew-monitor-gaming-dell-S2417DG/" target="_blank" class="btn-infor"><font size="4">Más info</font></a><a href="http://amzn.to/2fw41eb" target="_blank" class="btn-ama"><font size="4">Comprar en Amazon</font></a>
 <br />
 <br />
 <b>✳</b> Si necesitas un monitor de 27 pulgadas, recomendamos su hermano **<a href="http://amzn.to/2w3R3dT"><font color="#1a0dab">Dell S2716DG</font></a>**.
