@@ -4,6 +4,8 @@ title:  "Monitores Ultrawide: lo que no sabías de la experiencia 21:9"
 date:   2017-09-09 21:55:55 +0200
 excerpt: Desde sumergirte en tus mundos favoritos, hasta sacar ventaja en los juegos competitivos. ¡Te explicamos lo que no sabías de la experiencia que nos ofrecen los monitores UltraWide!
 categories: articulos
+description: 21:9, te contamos todo sobre la experiencia ultrawide. ¿Sabías que aportan ventajas en los juegos competitivos?  ¡Estas pantallas de monitor están llenas de trucos de los que nos podemos beneficiar!
+categories: articulos
 image:
     feature: experiencia-21-9.jpg
 tags: [cine, gaming, peliculas,monitor, pantalla, UltraWide, 4K, 2K,21&#58;9]
