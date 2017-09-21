@@ -27,7 +27,7 @@ A la hora de jugar a videojuegos, **la pantalla es esencial**. Un buen monitor g
 
 - **High Dynamic Range (HDR)** es una nueva tecnología que genera **más niveles de intensidad** entre las zonas más oscuras y las más claras para ofrecer un **mayor nivel de detalle**, especialmente en sombras. Es compatible con **Xbox One S**, **Xbox One X**, todos los modelos de **PS4** y las **mejores tarjetas gráficas** de PC.
 
-Si quieres saber más sobre cómo elegir un monitor, echa un vistazo a **<a href="/guias-de-compra/como-elegir-que-monitor-comprar/"><font color="#1a0dab">este artículo</font></a>**.
+Si quieres saber más sobre cómo elegir un monitor, echa un vistazo a **<a href="/guias-de-compra/como-elegir-que-monitor-comprar-en-2017/"><font color="#1a0dab">este artículo</font></a>**.
 
 Seleccionamos la **crème de la crème** entre los mejores fabricantes. Pero esta elección depende de nuestras necesidades, por lo que hemos divido el **ranking por categorías**. 
 <br /><br />
