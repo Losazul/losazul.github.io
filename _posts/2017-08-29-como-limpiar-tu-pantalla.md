@@ -6,6 +6,7 @@ excerpt: Los métodos populares son un peligro para la salud de tu monitor. En e
 image:
     feature: limpiar.jpg
 categories: articulos
+description: Te enseñamos como limpiar de forma segura la pantalla de tu monitor o televisión. ¡Y te advertimos de los errores más comunes!
 tags: [TV, monitor, televisión, tutorial, limpieza, polvo, mancha, líquido]
 ---
 
