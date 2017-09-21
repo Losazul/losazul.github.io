@@ -6,6 +6,7 @@ excerpt: Sigue estos pasos para sacar el máximo rendimiento a tu pantalla. Si q
 image:
     feature: calibrar.jpg
 categories: articulos
+description: Cómo configurar nuestra pantalla de monitor para obtener los mejores colores y una óptima nitidez. Sacarlo de la caja no es el último paso.
 tags: [tecnología, dispositivos, calibración, Windows, PC, monitores, accesorios]
 ---
 
