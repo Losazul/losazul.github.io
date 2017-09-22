@@ -72,7 +72,7 @@ Por su precio, es actualmente <b>la opción 4K más inteligente que puedas elegi
     Con su aspecto <b>ultra-plano</b> y su acabado <b>negro clásico</b>, el Dell SE2416H ofrece <b>gran calidad de color</b> a la que la mayoría de los demás monitores baratos no llegan. Su estilosa fabricación ofrece <b>colores vibrantes</b> desde cualquier ángulo, por lo que puedes <b>disfrutar</b> de los <b>negros profundos</b> y de los <b>blancos brillantes</b> con los que los monitores competentes no pueden competir.
 </div>
 Con su tecnología <b>Dell PowerNap</b> que reduce el brillo de la pantalla cuando no está en uso, es también el monitor de ahorro energético perfecto - con lo que <b>ahorrarás dinero automáticamente</b>. El <b>Dell SE2416H</b> ofrece una <b>excelente calidad de imagen</b> con un <b>contraste de color insuperable</b>.<br />
-<a href="http://amzn.to/2fdFMAI" target="_blank" class="btn-infor"><font size="4">Más info</font></a><a href="http://amzn.to/2fdFMAI" target="_blank" class="btn-ama"><font size="4">Comprar en Amazon</font></a>
+<a href="http://amzn.to/2hlarR5" target="_blank" class="btn-infor"><font size="4">Más info</font></a><a href="http://amzn.to/2hlarR5" target="_blank" class="btn-ama"><font size="4">Comprar en Amazon</font></a>
 <br />
 <br />
 <br />
