@@ -44,7 +44,7 @@ LG 29UM58-P</font></a>**.</i>
 <div id="container">
     <div id="floated"><img class="wrap" src="/images/pictures/samsung-u28e590d.jpg" href="http://amzn.to/2hn8kZB"> 
 </div>
-     El <b>Samsung U28E590</b> ofrece un único <b>todo-en-uno</b> con protección frente al efecto flicker y con el nuevo modo <b>Eye Saver de Samsung</b>, produciendo una <b>bella imagen</b> en un <b>alucinante 4K UHD</b>. Este monitor combina perfectamente <b>diseño de alta calidad</b> y <b>precio económico</b>. La calidad de imagen lo convierte en <b>uno de los mejores moniyores gaming</b>, gracias a sus <b>8 millones de píxeles</b> para un realismo increible.
+     El <b>Samsung U28E590</b> ofrece un único <b>todo-en-uno</b> con protección frente al efecto flicker y con el nuevo modo <b>Eye Saver de Samsung</b>, produciendo una <b>bella imagen</b> en un <b>alucinante 4K UHD</b>. Este monitor combina perfectamente <b>diseño de alta calidad</b> y <b>precio económico</b>. La calidad de imagen lo convierte en <b>uno de los mejores monitores gaming</b>, gracias a sus <b>8 millones de píxeles</b> que permiten crear un realismo increible.
 </div>
 Por su precio, es actualmente <b>la opción 4K más inteligente que puedas elegir</b>. Por si todo esto fuera poco, el monitor es compatible con <b>AMD FreeSync</b> y posee el <b>tiempo de respuesta más rápido posible: 1 ms</b>. El nuevo Samsung <b>U28E590D</b> nos ofrece una <b>sobresaliente calidad de imagen </b>e inigualable <b>resolución 4K UHD</b>. Es un <b>sueño de monitor</b> que ofrece un diseño impecable, y <b>durará en su posición del ranking durante varios años</b>.<br />
 <a href="http://amzn.to/2hn8kZB" target="_blank" class="btn-infor"><font size="4">Más info</font></a><a href="http://amzn.to/2hn8kZB" target="_blank" class="btn-ama"><font size="4">Comprar en Amazon</font></a>
@@ -69,9 +69,9 @@ Por su precio, es actualmente <b>la opción 4K más inteligente que puedas elegi
 <div id="container">
     <div id="floated"><img class="wrap" src="/images/pictures/dell-se2416h.jpg"> 
 </div>
-    Con su aspecto <b>ultra-plano</b> y su acabado negro clásico, el Dell SE2416H ofrece gran calidad de color a la que la mayoría de los demás monitores baratos no llegan. Su estilosa fabricación ofrece colores vibrantes desde cualquier ángulo, por lo que puedes disfrutar de los negros profundos y de los blancos brillantes con los que los monitores competentes no pueden competir.
+    Con su aspecto <b>ultra-plano</b> y su acabado <b>negro clásico</b>, el Dell SE2416H ofrece <b>gran calidad de color</b> a la que la mayoría de los demás monitores baratos no llegan. Su estilosa fabricación ofrece <b>colores vibrantes</b> desde cualquier ángulo, por lo que puedes <b>disfrutar</b> de los <b>negros profundos</b> y de los <b>blancos brillantes</b> con los que los monitores competentes no pueden competir.
 </div>
-Con su tecnología Dell PowerNap que reduce el brillo de la pantalla cuando no está en uso, es también el monitor de ahorro energético perfecto - con lo que ahorrarás dinero automaticamente. El Dell SE2416H ofrece una excelente calidad de imagen con un contraste de color insuperable.<br />
+Con su tecnología <b>Dell PowerNap</b> que reduce el brillo de la pantalla cuando no está en uso, es también el monitor de ahorro energético perfecto - con lo que <b>ahorrarás dinero automáticamente</b>. El <b>Dell SE2416H</b> ofrece una <b>excelente calidad de imagen</b> con un <b>contraste de color insuperable</b>.<br />
 <a href="http://amzn.to/2fdFMAI" target="_blank" class="btn-infor"><font size="4">Más info</font></a><a href="http://amzn.to/2fdFMAI" target="_blank" class="btn-ama"><font size="4">Comprar en Amazon</font></a>
 <br />
 <br />
