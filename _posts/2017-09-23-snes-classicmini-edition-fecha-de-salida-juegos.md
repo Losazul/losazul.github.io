@@ -2,7 +2,7 @@
 layout: post
 title:  "SNES Classic/Mini: fecha de salida, juegos, y todo lo que necesitas saber"
 date:   2017-09-23 23:00:00 +0200
-excerpt: El lanzamiento de la SNES Classic se acerca a España. Aquí tienes todo lo que necesitas saber de la consola, sus juegos, espectaciones y donde puedes comprarla.
+excerpt: La fecha de salida de la SNES Classic se acerca a España. Aquí tienes todo lo que necesitas saber de la consola, sus juegos, espectaciones y donde puedes comprarla.
 
 description: El lanzamiento de la SNES Classic se acerca. Aquí tienes todo lo que necesitas saber de la consola, sus juegos, y donde comprarla.
 categories: articulos
