@@ -23,7 +23,7 @@ Su **lanzamiento** está establecido para el **29 de septiembre**, por **80$** /
 
 ## ¿Cómo puedo encontrar una SNES Classic?
 
-Ya escarmentados por la terrible escasez de consolas NES Classic, **nintendo ha incrementado la cantidad de unidades en distribución**, y además se encargará de producirlas en mayores cantidades. La cosa no acaba aquí: **Nintendo ha instado a sus fans a no comprar consolas SNES Classic vendidas a precios más alto del original**, ya que habrán muchas más disponibles en comparación con la NES Classic. Para ello, recomendamos estar atento de las unidades disponibles en tiendas de confianza, como **Amazon**. 
+Ya escarmentados por la terrible escasez de consolas NES Classic, **nintendo ha incrementado la cantidad de unidades en producción** y **distribución**. Pero la cosa no acaba aquí: **Nintendo ha instado a sus fans a no comprar consolas SNES Classic vendidas a precios más alto del original**, ya que habrán muchas más disponibles en comparación con la NES Classic. Para ello, recomendamos estar atento de las unidades disponibles en tiendas de confianza, como **Amazon**. 
 <br /><br />
 <img src="/images/pictures/snes-classic-juegos.jpg">
 <br /><br />
