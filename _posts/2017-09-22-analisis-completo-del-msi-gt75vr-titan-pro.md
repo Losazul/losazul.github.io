@@ -8,6 +8,7 @@ categories: articulos
 image:
     feature: /review-laptop-titan-pro.jpg
 tags: [análisis, gaming, portátil, 4K, review, msi]
+comments: true
 ---
 <!--more-->
 <!-- more -->

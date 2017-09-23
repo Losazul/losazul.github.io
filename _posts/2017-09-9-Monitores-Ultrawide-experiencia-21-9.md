@@ -9,6 +9,7 @@ categories: articulos
 image:
     feature: experiencia-21-9.jpg
 tags: [cine, gaming, peliculas,monitor, pantalla, UltraWide, 4K, 2K,21&#58;9]
+comments: true
 ---
 
 <!--more-->

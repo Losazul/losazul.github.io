@@ -8,6 +8,7 @@ image:
 categories: articulos
 description: Te enseñamos como limpiar de forma segura la pantalla de tu monitor o televisión. ¡Y te advertimos de los errores más comunes!
 tags: [TV, monitor, televisión, tutorial, limpieza, polvo, mancha, líquido]
+comments: true
 ---
 
 En cualquier pantalla, tanto si intentas eliminar el polvo de tu monitor, la marcas de huellas de tu nueva televisión HD, limpiar la suciedad o eliminar la grasa; se requiere de las herramientas de limpieza adecuadas, así como de un uso adecuado.

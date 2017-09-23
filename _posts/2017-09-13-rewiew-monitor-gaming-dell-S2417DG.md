@@ -8,6 +8,7 @@ description: Review del barato pero gran monitor Dell S2417DG. En esta reseña a
 image:
     feature: review-s2417dg.jpg
 tags: [Dell, monitor, review, análisis, gaming, S2417DG ,2k]
+comments: true
 ---
 <!--more-->
 <!-- more -->

@@ -8,6 +8,7 @@ categories: guias-de-compra
 description: ¿No sabes qué monitor comprar? Esta es tu guía defintiva para elegir el mejor en 2017.
 image:
     feature: guiacomprar.jpg
+comments: true
 ---
 <!--more-->
 <!-- more -->

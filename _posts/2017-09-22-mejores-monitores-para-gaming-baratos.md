@@ -8,6 +8,7 @@ categories: guias-de-compra
 image:
     feature: /monitores-baratos.jpg
 tags: [económico, gaming, monitores, pantallas, ultrawide, 4K]
+comments: true
 ---
 <!--more-->
 <!-- more -->

@@ -8,6 +8,7 @@ categories: guias-de-compra
 image:
     feature: monitorgaming.jpg
 tags: [gaming, monitores, pantallas, curva, paneles, 4K, G-Sync]
+comments: true
 ---
 <!--more-->
 <!-- more -->

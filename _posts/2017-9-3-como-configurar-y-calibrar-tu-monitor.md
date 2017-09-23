@@ -8,6 +8,7 @@ image:
 categories: articulos
 description: Cómo configurar nuestra pantalla de monitor para obtener los mejores colores y una óptima nitidez. Sacarlo de la caja no es el último paso.
 tags: [tecnología, dispositivos, calibración, Windows, PC, monitores, accesorios]
+comments: true
 ---
 
 <!-- more -->
