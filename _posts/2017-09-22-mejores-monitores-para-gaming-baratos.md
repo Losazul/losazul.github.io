@@ -15,7 +15,7 @@ Si ests buscando un **monitor barato** para **gaming**, estás de suerte. Es **m
     
 <img src="/images/pictures/monitores-sin-precedentes.jpg">
 <br /><br />
-<i>Si quieres más sobre como elegir un monitor gaming, echa un vistazo **<a href="/guias-de-compra/guia-para-elegir-que-monitor-comprar-en-2017/"><font color="#1a0dab">este artículo</font></a>**.</i>
+<i>Si quieres más sobre cómo elegir un monitor gaming, echa un vistazo **<a href="/guias-de-compra/guia-para-elegir-que-monitor-comprar-en-2017/"><font color="#1a0dab">este artículo</font></a>**.</i>
 
 ## Reseñas de Monitores Gaming  y Guía de compra de 2017
 Es fácil verse colapsado por la **increible cifra de monitores disponibles** en el mercado. Cientos de ellos compiten por llamar tu atención, y **saber cuál elegir puede ser un proceso difícil**. Pero no te preocupes, **estamos aquí para ayudarte**. Así que sin más dilación, aquí están los **mejores monitores baratos** en **gaming**. 
