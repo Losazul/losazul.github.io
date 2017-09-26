@@ -2,7 +2,7 @@
 layout: post
 title:  "Cómo limpiar correctamente una pantalla de monitor o televisión"
 date:   2017-08-29 21:55:55 +0200
-excerpt: Los métodos populares son un peligro para la salud de tu monitor. En este artículo te enseñamos las herramientas y el procedimiento adecuado para la limpieza de la pantalla.
+excerpt: Nueve de cada diez usuarios limpian mal su pantalla. En este artículo te enseñamos las herramientas y el procedimiento adecuado para su correcta limpieza.
 image:
     feature: limpiar.jpg
 categories: articulos
