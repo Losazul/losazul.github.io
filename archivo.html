@@ -28,7 +28,7 @@ comments: false
 <!-- basura -->
 		<ul>
     {% for post in site.categories[this_word] %}{% if post.title != null %}
-      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+      <br /><li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
     {% endif %}{% endfor %}<br />
 		</ul>
 	</article><!-- /.hentry -->
