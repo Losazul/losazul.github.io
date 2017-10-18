@@ -3,7 +3,7 @@ layout: post
 title:  "¿Cuánto dinero ganan los jugadores profesionales de eSports? ¿Y cómo?"
 date:   2017-10-18 23:00:00 +0200
 excerpt: ¿Sabes cúal es la friolera cantidad de dinero que ganan los jugadores profesionales de Sports? Todo esto se debe a  publicidad, streaming, salarios y ganancias.
-description: Cuánto ganan los jugadores de eSports profesionales? Y cómo lo hacen? Te lo explicamos todo&#58; publicidad, streaming, salarios y ganancias.
+description: ¿Sabes cúal es la friolera cantidad de dinero que ganan los jugadores profesionales de Sports? Todo esto se debe a  publicidad, streaming, salarios y ganancias.
 categories: articulos
 image:
     feature: /euros.jpg
