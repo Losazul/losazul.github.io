@@ -25,7 +25,7 @@ comments: true
 <br /><br />
 **5.** 7 de cada 10 personas juegan a videojuegos, **60% son hombres**, **40% mujeres**.
 <br /><br />
-**6.** Debido a la popularidad del juego de Nintendo **«Mario Bros** en 1983, hubo una explosión de bebés con el nombre de Mario.<center><img src="/images/pictures/mario-brothers.jpg" width="50%"></center>
+**6.** Debido a la popularidad del juego de Nintendo **«Mario Bros»** en 1983, hubo una explosión de bebés con el nombre de Mario.<center><img src="/images/pictures/mario-brothers.jpg" width="50%"></center>
 <br />
 **7.** En el juego original de **The Legend of Zelda**, ¿por qué solo podías llevar **255 rupias**? Era lo máximo que permitían los **8 bits** del juego.<br />
 <center><img src="/images/pictures/primer-zelda.jpg" width="75%"></center>
