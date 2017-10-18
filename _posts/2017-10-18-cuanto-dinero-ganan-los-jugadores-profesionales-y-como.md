@@ -17,7 +17,7 @@ Ciertas personas te acusarán de «gastar» tu tiempo jugando a videojuegos. Per
 ### Salarios
 Los salarios varían de jugador a jugador, equipo; y otros factores como la reputación, habilidad y seguimiento social. Desafortunadamente, la industria carece de transparencia en este tema, lo que hace difícil para los jugadores saber cuánto es una justa compensación por su trabajo.
 
-En 2015, Ember, **un equipo Norte Americano de League of Legends fue la primera organización en hacer públicas los salarios de sus jugadores**. En su declaración, la organización alentó absoluta transparencia en cuanto a lo que respecta el salario de los profesionales, ya que la mayoría de «los jugadores de eSports pueden estar dejando a  un lado su educación por un futuro incierto».
+En 2015, Ember, **un equipo Norte Americano de League of Legends fue la primera organización en hacer públicos los salarios de sus jugadores**. En su declaración, la organización alentó absoluta transparencia en cuanto a lo que respecta el salario de los profesionales, ya que la mayoría de «los jugadores de eSports pueden estar dejando a  un lado su educación por un futuro incierto».
 
 **Greyson “Goldenglue” Gilmer coronó la lista con un salario fijo de 55.000€ más 23.000€ de bonus extra.** Seguido por Colin "Solo" Earnest quien también ganaba 55.000€ en salario con un bonus de 18.000€. Benjamin DeMunck ganó 64.000€, Nicolar “GleebGlarbu” Haddad 61.000€ y Jaun “Contractz” Garcia 60.000€.
 <br /><br />
