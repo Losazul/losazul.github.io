@@ -7,7 +7,7 @@ description: ¿Sabes cúal es la friolera cantidad de dinero que ganan los jugad
 categories: articulos
 image:
     feature: /euros.jpg
-tags: [dinero, eSports, streaming, profesional gaming]
+tags: [Dinero, eSports, Streaming, Profesional Gaming]
 comments: true
 ---
 <!--more-->

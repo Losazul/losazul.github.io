@@ -3,7 +3,7 @@ layout: post
 title:  "La guía para comprar un monitor en 2017"
 date:   2017-08-24 21:55:55 +0200
 excerpt:  Hay una inmensa oferta de monitores. Te explicamos los conocimientos clave para que seas capaz de elegir por ti mismo el monitor que se ajuste a tus necesidades.
-tags: [monitor, acer, asus, hdmi, dell, hp, ibm, nvidia, samsumg, leg]
+tags: [Monitor, Acer, Asus, Hdmi, Dell, Hp, Ibm, Nvidia, Samsumg]
 categories: guias-de-compra
 description: ¿No sabes qué monitor comprar? Esta es tu guía defintiva para elegir el mejor en 2017.
 image:

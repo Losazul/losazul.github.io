@@ -7,7 +7,7 @@ description: Review completo del MSI GT75VR Titan Pro en español. Hemos estudia
 categories: articulos
 image:
     feature: /review-laptop-titan-pro.jpg
-tags: [análisis, gaming, portátil, 4K, review, msi]
+tags: [Review, Gaming, Portátil, 4K, MSI]
 comments: true
 ---
 <!--more-->

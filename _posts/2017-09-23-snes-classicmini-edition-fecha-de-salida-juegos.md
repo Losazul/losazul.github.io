@@ -7,7 +7,7 @@ description: El lanzamiento de la SNES Classic se acerca. Aquí tienes todo lo q
 categories: articulos
 image:
     feature: /snes-classic-mini.jpg
-tags: [SNES Classic, Nintendo, Super Nintendo]
+tags: [Nintendo, Super Nintendo]
 comments: true
 ---
 <!--more-->

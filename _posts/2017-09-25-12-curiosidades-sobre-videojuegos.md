@@ -7,7 +7,7 @@ description: Las 12 curiosidades sobre videojuegos que tienes que conocer.
 categories: articulos
 image:
     feature: /13-curiosidades-videojuegos.jpg
-tags: [curiosidades, Nintendo, videojuegos, PlayStation]
+tags: [Curiosidades, Nintendo, Videojuegos, PlayStation]
 comments: true
 ---
 <!--more-->

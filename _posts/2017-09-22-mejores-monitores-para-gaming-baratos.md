@@ -7,7 +7,7 @@ description: El top ranking de monitores baratos para gaming, con las mejores ca
 categories: guias-de-compra
 image:
     feature: /monitores-baratos.jpg
-tags: [económico, gaming, monitores, pantallas, ultrawide, 4K]
+tags: [Barato, Gaming, Monitor, Ultrawide, 4K]
 comments: true
 ---
 <!--more-->

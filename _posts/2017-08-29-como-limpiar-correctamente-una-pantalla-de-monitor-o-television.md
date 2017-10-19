@@ -7,7 +7,7 @@ image:
     feature: limpiar.jpg
 categories: articulos
 description: Te enseñamos como limpiar de forma segura la pantalla de tu monitor o televisión. ¡Y te advertimos de los errores más comunes!
-tags: [TV, monitor, televisión, tutorial, limpieza, polvo, mancha, líquido]
+tags: [TV, Monitor, Televisión, Tutorial, Limpieza]
 comments: true
 ---
 

@@ -7,7 +7,7 @@ excerpt: Calificado como el mejor monitor calidad-precio. Este monitor Dell lo p
 description: Mejor calidad-precio Dell S2417DG - review. Analizamos sus características y te explicamos por qué es el mejor para gaming.
 image:
     feature: review-s2417dg.jpg
-tags: [Dell, monitor, review, análisis, gaming, S2417DG ,2k]
+tags: [Dell, Monitor, Review, Gaming, 2K]
 comments: true
 ---
 <!--more-->

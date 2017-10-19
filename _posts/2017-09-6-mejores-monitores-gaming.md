@@ -7,7 +7,7 @@ description: Recopilamos los mejores monitores gaming de 2017. Pantallas fluidas
 categories: guias-de-compra
 image:
     feature: monitorgaming.jpg
-tags: [gaming, monitores, pantallas, curva, paneles, 4K, G-Sync]
+tags: [Gaming, Monitor, Ultrawide, 2K, 4K, G-Sync]
 comments: true
 ---
 <!--more-->

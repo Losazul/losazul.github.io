@@ -15,3 +15,5 @@ Hemos creado esta página web sin ser publicitados por ninguna marca, para que p
 <h3> Amazon afiliados </h3>
 
 Trabajamos con «Amazon afiliados». Esto significa que si tras pinchar en uno de nuestros enlaces de Amazon, compráis un monitor en menos de 24h, contribuirás a financiar este blog para que continúe gratis y funcional. ¡Gracias por vuestra ayuda!
+
+<br />
