@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Sobre nuestro Blog.
+title: "Sobre nuestro Blog."
+description: "Información transparente sobre el proyecto Monitores Gaming."
 share: false
 ---
 <h2>
