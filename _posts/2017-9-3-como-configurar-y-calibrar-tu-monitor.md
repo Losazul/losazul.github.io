@@ -62,7 +62,7 @@ Abre el **<a target="_blank" href="http://jasonfarrell.com/misc/deadpixeltest.ph
   
 El paso final es el más fácil de todos, pero es continuo - mantener limpia la pantalla. A no ser que sea táctil, nunca debe tocarse con los dedos, ya que las marcas de grasa son difíciles.
 
-**Recomendamos** echar un vistazo a **<a target="_blank" href="/articulos/como-limpiar-tu-pantalla/"><font color="#1a0dab">este artículo</font></a>**, donde te recopilamos los errores **más graves** pero **comunes** que se cometen a la hora de limpiar nuestro monitor, y por supuesto, te explicamos cómo hacerlo **correctamente**.
+**Recomendamos** echar un vistazo a **<a target="_blank" href="/articulos/como-limpiar-correctamente-una-pantalla-de-monitor-o-television/"><font color="#1a0dab">este artículo</font></a>**, donde te recopilamos los errores **más graves** pero **comunes** que se cometen a la hora de limpiar nuestro monitor, y por supuesto, te explicamos cómo hacerlo **correctamente**.
 
 <!--- IMAGENES -->
 
