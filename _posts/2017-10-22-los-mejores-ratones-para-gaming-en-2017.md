@@ -16,7 +16,7 @@ Gracias al **auge del mundo de los videojuegos**, los fabricantes como Asus, Log
 
 Ya que vamos a hablar sobre los mejores ratones gaming de 2017, deberías saber que aunque el ratón «gaming» y el estándar sean parecidos visualmente, **los ratones gaming son mejores** porque te permiten cambiar entre **diferentes DPIs (la sensibilidad del ratón) sin perder precisión**, además de incorporar botones programables extra. Imagina tener todos tus hechizos asignados al ratón en un RPG. 
 
-**Suena espléndido, ¿no? Pues bueno, ya es una realidad.**
+**Suena espléndido, ¿no? Pues bueno, es una realidad.**
 <br />
 <!--  Razer DeathAdder Elite -->
 <br />
