@@ -12,7 +12,7 @@ comments: true
 ---
 <!--more-->
 <!-- more -->
-Gracias al **auge del mundo de los videojuegos**, los fabricantes como Asus, Logitech, Razer, Corsair, y otro par de compañias han podido dar un paso adelante y desarollar algunos de los **mejores periféricos de todos los tiempos**.
+Gracias al **auge del mundo de los videojuegos**, los fabricantes como Asus, Logitech, Razer, Corsair, y otro par de compañías han podido dar un paso adelante y desarrollar algunos de los **mejores periféricos de todos los tiempos**.
 
 Ya que vamos a hablar sobre los mejores ratones gaming de 2017, deberías saber que aunque el ratón «gaming» y el estándar sean parecidos visualmente, **los ratones gaming son mejores** porque te permiten cambiar entre **diferentes DPIs (la sensibilidad del ratón) sin perder precisión**, además de incorporar botones programables extra. Imagina tener todos tus hechizos asignados al ratón en un RPG. 
 
@@ -91,7 +91,7 @@ Y no hace falta decirlo. Los <b>botones son completamente programables</b>. Sin 
 <div id="container">
     <div id="floated"><a target="_blank" href="http://amzn.to/2l0PPiu"><img class="wrap" src="/images/pictures/logitech-g900-chaos-spectrum.jpg"></a>
 </div>
-Para empezar, te gustará saber que <b>puedes cambiar de 200 hasta 12.000 DPI sobre la marcha</b>, algo realmente impresionante. Además, incorpora la <b>iluminación Spectrum</b>, la propia versión de Logitech de la iluminación RGB. Obtendremos acceso a la <b>legendaría suite de software</b> que hace que Logitech sea tan <b>conocida y aclamada</b> por la comunidad.  </div> 
+Para empezar, te gustará saber que <b>puedes cambiar de 200 hasta 12.000 DPI sobre la marcha</b>, algo realmente impresionante. Además, incorpora la <b>iluminación Spectrum</b>, la propia versión de Logitech de la iluminación RGB. Obtendremos acceso a la <b>legendaria suite de software</b> que hace que Logitech sea tan <b>conocida y aclamada</b> por la comunidad.  </div> 
 
 Ten en cuenta que este ratón es un **buque insignea de Logitech**, por lo que si te preocupa pagar un alto precio por él, ten en cuenta que estarás obteniendo una de las **tecnologías más punteras**. Además, su diseño ambidiestro lo hace perfecto para todo tipo de personas, tanto zurdas como diestras. Sin duda, **el Chaos Spectrum es uno de los ratones más poderosos y brillantes que hemos utilizado.** 
 <br /><a href="http://amzn.to/2l0PPiu" target="_blank" class="btn-infor"><font size="4">Más info</font></a><a href="http://amzn.to/2l0PPiu" target="_blank" class="btn-ama"><font size="4">Comprar en Amazon</font></a>
