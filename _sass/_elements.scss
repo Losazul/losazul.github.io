@@ -15,18 +15,18 @@ hr {
   margin-bottom: 0px;
   padding: 8px 18px;
   @include font-rem(14);
-  background-color: #C54B4B;
-  color: $white;
+  background-color: #FFC361;
+  color: $black;
   border-width: 0px !important;
   border-style: solid !important;
   border-color: #8E8E8E;
   @include rounded(3px);
   &:visited {
-    color: $white;
+    color: $black;
   }
   &:hover {
-    background-color: #FFC361;
-    color: $primary;
+    background-color: #f9a825;
+    color: $black;
   }
 }
 .btn-infor {

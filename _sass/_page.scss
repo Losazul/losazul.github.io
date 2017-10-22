@@ -8,15 +8,35 @@ body {
 
 // Basura
 // --------------------------------------------------
+
+.column {
+    float: left;
+    width: 50%;
+    text-center:true 
+    
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+
+}
+
+// centra el texto
 .text-center {
 	display: block;
 	margin-left: auto;
     margin-right: auto
 }
 
+// Para arreglar el footer
 .noseparar{
 	white-space:nowrap 
 }
+
+// no sé para qué puse esto
 
 #div.avatar {
     /* cambia estos dos valores para definir el tamaño de tu círculo */
