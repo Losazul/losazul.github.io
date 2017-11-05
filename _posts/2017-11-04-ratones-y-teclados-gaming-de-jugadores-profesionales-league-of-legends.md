@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ratones, teclados y cascos de los profesionales de League of Legends"
+title:  "Ratón, Teclado y Cascos de los profesionales de League of Legends"
 date:   2017-11-04 21:55:55 +0200
 excerpt:  ¿Quieres saber cuál es el teclado de Faker? ¿Prefieres ver el ratón de Bjergsen? ¿O tal vez buscas los cascos de PerkZ? ¡Has llegado al sitio adecuado!
 description: ¿Quieres saber cuál es el teclado de Faker? ¿Prefieres ver el ratón de Bjergsen? ¿O tal vez buscas los cascos de PerkZ?.
