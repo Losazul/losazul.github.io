@@ -17,14 +17,15 @@ url: https://www.monitoresgaming.com
 #   To create sub categories. add a submenu item
 # See the example
 menu:
-  - title: 'Inicio'
-    url: '/'
+#  - title: 'Black Friday'
+#    url: '/tags'
+  - title: '¡BLACK FRIDAY!'
+    url: '/black_friday_mejores_ofertas_gaming_de_monitores_consolas_y_videojuegos'
   - title: 'Guías de compra'
     url: '/guias-de-compra/'
   - title: 'Artículos'
     url: '/articulos/'
-#  - title: 'Archivo'
-#    url: '/tags'
+
   - title: 'Archivo'
     url: '/archivo/'
 #    type: 'categories'
