@@ -32,51 +32,51 @@ El G403 es una pieza de la prodigiosa gama de Logitech, conocido por fabricar eq
     <div id="floated"><a target="_blank" href="http://amzn.to/2i0rZCJ"><img class="wrap" src="/images/pictures/switch-mario.jpg"></a>
 </div>
 Super Mario Odyssey destaca por su originilidad y desarrollo. Supera a la venerada serie, en mundos y en personajes: es el mejor juego de plataformas de acción. Introduce un nuevo abanico de nuevas e inesperadas mecánicas. Simplemente, una obra de arte.</div>
-
+<br/>
 **<a target="_blank" href="http://amzn.to/2jQ3Lvo"><font size="5" color="black">Razer Kraken Pro V2</font></a>**<br /><font color="#c12100" size="3"><b>17% de descuento</b></font>
 <div id="container">
     <div id="floated"><a target="_blank" href="http://amzn.to/2jQ3Lvo"><img class="wrap" src="/images/pictures/razer-kraken.jpg"></a>
 </div>
 Los Kraken Pro son unos cascos estéreo de Razer para aquellos gamers que buscan una cómoda solución para audio gaming y chat de voz. Es un dispositivo inalámbrico que suena a la perfección para todos los videojuegos, sin quedarse atrás en rendimiento musical.</div>
 <b>✳</b> Su versión estándar **<a href="http://amzn.to/2hWZtSy"><font color="#1a0dab">Razer Kraken </font></a>** también tiene un descuento del **30%**	.
-
+<br/><br/>
 **<a target="_blank" href="http://amzn.to/2i0t3Xf"><font size="5" color="black">Razer BlackWidow Chroma V2 </font></a>**<br /><font color="#c12100" size="3"><b>32% de descuento</b></font>
 <div id="container">
     <div id="floated"><a target="_blank" href="http://amzn.to/2i0t3Xf"><img class="wrap" src="/images/pictures/blackwidow-v2.jpg"></a>
 </div>
 El BlaclWidow Chroma V2 es el titán de los teclados mecánicos de Razer, y viene equipado con todas las características necesarias para complacer a los críticos gamers que sólo buscan lo mejor. </div>
 <b>✳</b> Si buscas misma calidad por menos precio y no necesitas la  coloridada iluminación chroma, también hay un **30% de descuento** en el **<a href="http://amzn.to/2hWZtSy"><font color="#1a0dab">Razer BlackWidow Ultimate</font></a>**.
-
+<br/><br/>
 **<a target="_blank" href="http://amzn.to/2B5gwpA"><font size="5" color="black">HP OMEN Portátil 15.6" para Gaming Profesional </font></a>**<br /><font color="#c12100" size="3"><b>190€ de descuento</b></font>
 <div id="container">
     <div id="floated"><a target="_blank" href="http://amzn.to/2B5gwpA"><img class="wrap" src="/images/pictures/omen.jpg"></a>
 </div>
 Un portátil gamer de alto nivel. Un <b>Intel Core i5</b>, una tarjeta gráfica <b>Nvidia GeForce GTX 1050</b>, <b>16GB  de Ram</b> y <b>1TB HDD</b> + <b>128 GB SSD</b>. Con <b>windows 10</b> instalado. ¿Podemos pedir algo más? Este titán es mejor que la mayoría de nuestros ordenadores.</div>
-
+<br/>
 **<a target="_blank" href="http://amzn.to/2jMkPm2"><font size="5" color="black">Razer ManO'war</font></a>**<br /><font color="#c12100" size="3"><b>33% de descuento</b></font>
 <div id="container">
     <div id="floated"><a target="_blank" href="http://amzn.to/2jMkPm2"><img class="wrap" src="/images/pictures/manowar.jpg"></a>
 </div>
-Los cascos Razer ManO'War son el busque insignia de los cascos de Razer, superando al modelo Kraken Pro V2 al añadir funcionalidad inalámbrica, sonido envolvente 7.1, un diseño más ligero, y la popular iluminación RGB.</div>
-
+Los cascos Razer ManO'War son el busque insignia de los cascos de Razer, superando al modelo Kraken Pro V2 al añadir funcionalidad inalámbrica, sonido envolvente 7.1, un diseño más ligero, y la popular iluminación RGB.</div><br/>
+<br/>
 **<a target="_blank" href="http://amzn.to/2hWRPrm"><font size="5" color="black">Razer Naga Chroma</font></a>**<br /><font color="#c12100" size="3"><b>50% de descuento</b></font>
 <div id="container">
     <div id="floated"><a target="_blank" href="http://amzn.to/2hWRPrm"><img class="wrap" src="/images/pictures/naga.jpg"></a>
 </div>
 El ratón diseñado para para MOBAs y MMOs. Perfecto para para crear macros y comandos en juegos como el World of Warcraft, así como distintos juegos. Con la garantía y calidad de la marca Razer, se vuelve una de las opciones más tentadoras del mercado. </div>
-
+<br/>
 **<a target="_blank" href="http://amzn.to/2jQ229o"><font size="5" color="black">Corsair MM800C</font></a>**<br /><font color="#c12100" size="3"><b>27% de descuento</b></font>
 <div id="container">
     <div id="floated"><a target="_blank" href="http://amzn.to/2jQ229o"><img class="wrap" src="/images/pictures/corsair-alfombrilla.jpg"></a>
 </div>
 Iluminación LED RGG, con un gran rango de personalización. Pero no son solo destellos, la MM800 integra patrones y secuencias que pueden sincronizarse con otros productos CUE. Olvidando las luces, es sin duda la mejor alfombra que hemos probado nunca. </div>
-
+<br/>
 **<a target="_blank" href="http://amzn.to/2hX1myC"><font size="5" color="black">Corsair Carbide - Caja de ordenador gaming </font></a>**<br /><font color="#c12100" size="3"><b>25% de descuento</b></font>
 <div id="container">
     <div id="floated"><a target="_blank" href="http://amzn.to/2hX1myC"><img class="wrap" src="/images/pictures/caja-corsair.jpg"></a>
 </div>
 La nueva caja de Corsair, accesible para todos los bolsillos. Por su precio, el material y calidad de fabricación son asombrosos. Aunque es algo normal en Corsair, ya que es la marca líder en cuanto a calidad-precio.  </div>
-
+    
 
 <br/><br/>
 **<font size="5" color="black">¡Os dejo por último la lista de mis juegos favoritos en oferta!
