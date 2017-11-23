@@ -79,8 +79,8 @@ La nueva caja de Corsair, accesible para todos los bolsillos. Por su precio, el 
 
 
 <br/><br/>
-**<a target="_blank" href="http://amzn.to/2hWRPrm"><font size="5" color="black">¡Os dejo por último la lista de mis juegos favoritos en oferta!
-</font></a>**
+**<font size="5" color="black">¡Os dejo por último la lista de mis juegos favoritos en oferta!
+</font>**
 <br/><br/><br/>
 <b><a target="_blank" href="http://amzn.to/2hTEujp"><font color="#FD9A1B">Fifa 18 </font>- <font color="red">40% descuento</font></a>
 <br/><br/>
