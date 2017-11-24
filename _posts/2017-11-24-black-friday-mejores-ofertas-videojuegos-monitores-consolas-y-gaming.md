@@ -32,7 +32,7 @@ Este periférico nos trae un increíble sonido tanto en gaming como en música, 
 <div id="container">
     <div id="floated"><a target="_blank" href="http://amzn.to/2A7qpDB"><img class="wrap" src="/images/pictures/lg-monitor.jpg"></a>
 </div>
-El LG 29UM69G-B es un monitor gaming Wide Full-HD de 72 con panel IPS, resolución de 2560 x 1080 pixeles, 29 pulgadas,relación ultraWide 21:9, increíbles tiempos de respuesta de 5ms/1ms, Motion Blur Reduction y lo mejor: AMD FreeSync.</div>
+El LG 29UM69G-B es un monitor gaming Wide Full-HD de 72 con panel IPS, resolución de 2560 x 1080 pixeles, 29 pulgadas, relación ultraWide 21:9, increíbles tiempos de respuesta de 5ms/1ms, Motion Blur Reduction y lo mejor: AMD FreeSync.</div>
 <br/><br/>
 **<a target="_blank" href="http://amzn.to/2jVzETq"><font size="5" color="black">Xbox One S - 500 GB + Assassin's Creed Origins</font></a>**<br /><font color="#c12100" size="3"><b>40% de descuento (ahorras 120€)</b></font>
 <div id="container">
@@ -57,7 +57,7 @@ Este teclado combina las mejores características del G810, añadiendo algunos e
 <div id="container">
     <div id="floated"><a target="_blank" href="http://amzn.to/2i36rph"><img class="wrap" src="/images/pictures/log-g900.jpg"></a>
 </div>
-incorpora la iluminación Spectrum, la propia versión de Logitech de la iluminación RGB. Obtendremos acceso a la legendaria suite de software que hace que Logitech sea tan conocida y aclamada por la comunidad. Este ratón lidera nuestro top de ratones gaming.</div>
+Incorpora la iluminación Spectrum, la propia versión de Logitech de la iluminación RGB. Obtendremos acceso a la legendaria suite de software que hace que Logitech sea tan conocida y aclamada por la comunidad. Este ratón lidera nuestro top de ratones gaming.</div>
 <br/><br/>
 **<a target="_blank" href="http://amzn.to/2i0rZCJ"><font size="5" color="black">Nintendo Switch + Super Mario Odyssey (virtual)</font></a>**<br /><font color="#c12100" size="3"><b>11% de descuento</b></font>
 <div id="container">
