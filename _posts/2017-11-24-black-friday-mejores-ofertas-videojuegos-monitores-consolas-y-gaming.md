@@ -20,7 +20,7 @@ Las <b>más esperadas ofertas en gaming</b> han llegado junto al <b>Black Friday
 Hay una gran cantidad de ofertas atractivas activas ahí fuera, pero <b>no encontrarás estos productos a un precio más bajo en ningún sitio</b>.
 <!--22 DE NOVIEMBRE-->
 
-<h2><center> Ofertas del momento: 23 Noviembre 2017</center></h2><center><font size="2"> *¡Si te interesa alguna oferte no te demores, las ofertas sólo duran 24 horas!*</font></center><br/>   
+<h2><center> Ofertas del momento: 24 Noviembre 2017</center></h2><center><font size="2"> *¡Si te interesa alguna oferte no te demores, las ofertas sólo duran 24 horas!*</font></center><br/>   
 
 **<a target="_blank" href="http://amzn.to/2jYBZgE"><font size="5" color="black">Logitech G933 Artemis Spectrum</font></a>**<br /><font color="#c12100" size="3"><b>48% de descuento (ahorras 109€)</b></font>
 <div id="container">
