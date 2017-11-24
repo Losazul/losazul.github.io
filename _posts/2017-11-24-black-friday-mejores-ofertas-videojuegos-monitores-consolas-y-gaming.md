@@ -28,7 +28,7 @@ Hay una gran cantidad de ofertas atractivas activas ahí fuera, pero <b>no encon
 </div>
 Este periférico nos trae un increíble sonido tanto en gaming como en música, un robusto set de características extra y la increíble y desarrollada tecnología wireless. </div>
 <br/><br/>
-**<a target="_blank" href="http://amzn.to/2A7qpDB"><font size="5" color="black">Monitor LG 29UM69G-B</font></a>**<br /><font color="#c12100" size="3"><b>26% de descuento (ahorras 79)</b></font>
+**<a target="_blank" href="http://amzn.to/2A7qpDB"><font size="5" color="black">Monitor LG 29UM69G-B</font></a>**<br /><font color="#c12100" size="3"><b>26% de descuento (ahorras 79€)</b></font>
 <div id="container">
     <div id="floated"><a target="_blank" href="http://amzn.to/2A7qpDB"><img class="wrap" src="/images/pictures/lg-monitor.jpg"></a>
 </div>
