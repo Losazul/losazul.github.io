@@ -46,7 +46,7 @@ La solución elegante para nuestro audio gaming. Son cómodos, reproducen un son
 <div id="container">
     <div id="floated"><a target="_blank" href="http://amzn.to/2AdpL7G"><img class="wrap" src="/images/pictures/logitetch.jpg"></a>
 </div>
-El G402 es el sucesor del G402, con sus respectivas mejoras: como su sensor óptico híbrido con tecnología Motor Fusion. Incorpora además botones programables y un cómodo diseño.</div><br/>
+El G402 es el sucesor del G40O, con sus respectivas mejoras: como su sensor óptico híbrido con tecnología Motor Fusion. Incorpora además botones programables y un cómodo diseño.</div><br/>
 <!--- +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ -->
 <!--- +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ -->
 <b><font size="5" color="black">Ofertas por categorías</font></b>
