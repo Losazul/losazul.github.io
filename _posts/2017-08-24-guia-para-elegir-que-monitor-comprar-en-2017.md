@@ -116,4 +116,4 @@ Todas **las especificaciones** mencionadas determinarán el **precio final** del
 
 **Invierte** el dinero **en función de tus necesidades** y no compres un monitor exclusivo con gran variedad de útiles características, si luego no las vas a usar.
 
-Nuestra **<a href="/guias-de-compra/mejores-monitores-gaming/" target="blank"><font color="#1a0dab">guía de compra de monitores gaming</font></a>** está publicada y ya ha ayudado a cientos de usuarios a elegir el monitor que más se corresponde con sus necesidades.
+Nuestra **<a href="/guias-de-compra/mejores-monitores-gaming-del-momento-2018/" target="blank"><font color="#1a0dab">guía de compra de monitores gaming</font></a>** está publicada y ya ha ayudado a cientos de usuarios a elegir el monitor que más se corresponde con sus necesidades.

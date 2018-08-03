@@ -19,15 +19,16 @@ url: https://www.monitoresgaming.com
 menu:
 #  - title: 'Black Friday'
 #    url: '/tags'
-  - title: '¡Cyber Monday!'
-    url: '/guias-de-compra/cyber-monday-mejores-ofertas-monitores-gaming-videojuegos-y-consolas/'
-  - title: 'Guías de compra'
-    url: '/guias-de-compra/'
+# - title: '¡Cyber Monday!'
+#    url: '/guias-de-compra/cyber-monday-mejores-ofertas-monitores-gaming-videojuegos-y-consolas/'
   - title: 'Artículos'
     url: '/articulos/'
-
+  - title: 'Guías de compra'
+    url: '/guias-de-compra/'
   - title: 'Archivo'
     url: '/archivo/'
+  - title: 'Acerca de'
+    url: '/about/'
 #    type: 'categories'
 #  - title: 'Favorites'
 #    url: '#'
@@ -92,7 +93,7 @@ permalink:   /:categories/:title/
 paginate: 5
 
 # if true, shows the floatting share buttons
-float_share: true
+float_share: false
 
 # Octopress
 # Default extensions

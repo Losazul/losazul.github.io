@@ -2,7 +2,7 @@
 layout: post
 title:  "Los mejores ratones para gaming (2017)"
 date:   2017-10-22 23:00:00 +0200
-excerpt: No tiene mucho sentido utilizar un ratón o teclado de 5€ con un ordenador de casi 1.000€, ¿verdad? Si buscas un ratón profesional, échale vistazo a este Top.
+excerpt: No tendría mucho sentido utilizar un ratón o teclado de 15€ con un ordenador de más de 600€, ¿verdad? Si buscas un ratón profesional, ojea este TOP.
 description: Los mejores ratones gaming (para League of Legends, CS:Go, Overwatch y más) de 2017 de marcas Asus, Logitech, Razer y Corsair.
 categories: guias-de-compra
 image:

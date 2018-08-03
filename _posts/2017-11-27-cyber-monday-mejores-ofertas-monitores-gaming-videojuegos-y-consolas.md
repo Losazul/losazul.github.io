@@ -7,7 +7,7 @@ description: "Las mejores ofertas en gaming del Cyber Monday: monitores, consola
 tags: [Gaming, Cyber Monday, Teclado, Monitor, Ratón, Ofertas]
 categories: guias-de-compra
 image:
-    feature: /cyber-monday.jpg
+    feature: /cybermonday.jpg
 comments: true
 ---
 <!--more-->

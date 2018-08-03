@@ -7,7 +7,7 @@ description: "Las mejores ofertas en gaming del Black Friday: Monitores, Consola
 tags: [Gaming, Black Friday, Teclado, Monitor, Ratón]
 categories: guias-de-compra
 image:
-    feature: /black_friday.jpg
+    feature: /black-friday.jpg
 comments: true
 ---
 <!--more-->
