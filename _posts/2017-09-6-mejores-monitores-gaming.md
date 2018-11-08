@@ -12,6 +12,8 @@ comments: true
 ---
 <!--more-->
 <!-- more -->
+## <a href="/guias-de-compra/mejores-monitores-gaming-del-momento-2018/"> Visita nuestro ranking ctualizado de monitores de 2018 aquí. </a>
+
 A la hora de jugar a videojuegos, **la pantalla es esencial**. Un buen monitor gamer no sólo te otorgará suficiente **color y brillo** para **sumergirte** en tus sagas favoritas, sino que además será **fluido** y lo suficientemente **veloz** para asegurar que siempre compitas a tu mejor nivel. Tener el monitor correcto **puede significar la diferencia** entre ganar y perder. 
 
 ## Cinco características en las que nos debemos fijar:

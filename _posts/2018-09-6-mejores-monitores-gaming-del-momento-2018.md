@@ -13,6 +13,7 @@ comments: true
 <!-- more -->
 
 
+
 Os traemos una nueva lista actualizada en Agosto de 2018 con los **mejores monitores gaming** del momento, y al mejor precio. 
 
 
