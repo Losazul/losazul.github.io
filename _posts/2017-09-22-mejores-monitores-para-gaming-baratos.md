@@ -12,6 +12,8 @@ comments: true
 ---
 <!--more-->
 <!-- more -->
+<i> **<a href="/guias-de-compra/mejores-monitores-baratos-gaming-del-momento-2018/"><font color="#1a0dab"> Pincha quí para ir a la nueva lista actualizada de los mejores monitores gaming económicos de 2018.</font></a>**.</i>
+
 Si ests buscando un **monitor barato** para **gaming**, estás de suerte. Es **más fácil** y **barato que nunca** comprar un **excelente** monitor **1080p HD** o **4K UHD**. Para ayudarte a elegir el producto perfecto, hemos investigado más de 30 nuevos monitores y **hemos elegido los 4 mejores**. ¡Vamos a ello!
     
 <img src="/images/pictures/monitores-sin-precedentes.jpg">
