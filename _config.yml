@@ -1,109 +1,101 @@
-title: Monitores Gaming
-description: ¿En qué hay que fijarse antes de comprar un monitor? Te enseñamos los monitores con mejor calidad-preccio del mercado. Los monitores más potentes, bonitos y baratos.
-# put your disqus here
-disqus_shortname:
-reading_time:     true # if true, shows the estimated reading time for a post
-words_per_minute: 200
-logo:             images/logo.png # logo visible in the topbar
-excerpt_separator: <!--more-->
-# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
-# When testing locally leave blank or use http://localhost:4000
-
-url: /losazul.github.io
-
-# draw your top menu here
-# each item must have a title and a url.
-#   To list post categories. use type: 'categories'
-#   To create sub categories. add a submenu item
-# See the example
-menu:
-  - title: 'Inicio'
-    url: '/'
-  - title: 'Guías de compra'
-    url: '/guias-de-compra'
-  - title: 'Artículos'
-    url: '/articulos'
-#  - title: 'Archivo'
-#    url: '/tags'
-  - title: 'Archivo'
-    url: '/categories'
-#    type: 'categories'
-#  - title: 'Favorites'
-#    url: '#'
-#    submenu:
-#      - title: 'Code Highlighter'
-#        url: '/intro/code-highlighting-post/'
-#      - title: 'Sample Post'
-#        url: '/intro/sample-post/'
-
-# Owner/author information
-owner:
-  name:            #Your name
-  site:           /losazul.github.io
-  avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
-  # Twitter nick for use in Twitter cards and follow button.
-  twitter: # if no twitter in this config, the twitter follow button will be removed
-  # GitHub nick for use in follow button in author block.
-  github: aron-bordin
-
-# Twitter account associated with the site if different from owner/author twitter account.
-# Used in Twitter cards.
-twitter: 
-
-twitter_username:     MonitoresGaming
-google_plus_username: 109135587340475039837
-facebook_username:    Monitores-Gaming-475429786158755
-
-# Social networking links used in author block underneath posts. Update and remove as you like.
-social:
-#  - title: "github"
-#    url: "https://github.com/aron-bordin"
-#  - title: "linkedin"
-#    url: "https://br.linkedin.com/in/aronbordin"
-#  - title: "youtube"
-#    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
-
-# Background image to be tiled on all pages
-background: pattern.png
-
-# Analytics and webmaster tools stuff goes here
-google_analytics:
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-locale:      en_US
-future:      true
+# Jekyll configuration
+markdown: kramdown
 highlighter: rouge
-markdown:    kramdown
-sass:
-  sass_dir: _sass
-  style: compressed
+paginate: 100 # it will paginate after this number
+# language: 'en-uk' Basura(Está en inglés)
+words_per_minute: 200
+excerpt_separator: <!--more-->
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+# edit baseurl to simply '/' if using as your personal page (instead of a project page)
+baseurl: /
 
-# Amount of post to show on home page
-paginate: 5
+# Website info
+title: Monitores Gaming
+description: Máxima autoridad en videojuegos
+cover: assets/images/blog-cover.jpg
+logo: assets/images/blog-icon.png
+logo_dark: assets/images/favicon.png
+favicon: assets/images/favicon.png
+# production_url: https://jekyller.github.io/jasper2/
+# source_url: https://github.com/jekyller/jasper2/
+CNAME: #add cname for website to be created
 
-# if true, shows the floatting share buttons
-float_share: false
+# Social info
+navigation: True # show the navbar links
+subscribers: False # you need to connect an external service for this to work,
+# if 'True' the submit button is disabled for now, but you can change that
+# by editing `_includes/subscribe-form.html`
+twitter: monitoresgaming # replace by your username
+facebook: Monitores-Gaming-475429786158755/ # replace by your username
+# Disqus
+disqus: True
+disqus_shortname: MonitoresGaming # replace with your disqus username
+google_verify:
 
-# Octopress
-# Default extensions
-post_ext: md
-page_ext: md
-# Found in _templates/
-post_layout: post
-page_layout: page
-# Format titles with titlecase?
-titlecase: true
+# Google Analytics
+google_analytics: UA-69281367-1 # replace with your GA tracking identifier
 
-include: [".htaccess"]
+# Permalinks
+permalink: /:title
+# permalink: /author/:author
+# permalink: /tag/:tag
+
+# Authors' info in `_data/authors.yml`
+# Tags' info in `_data/tags_info.yml`
+
+# gems and other configs
+locale:      es_ES
+
+plugins_dir: [_plugins]
+plugins: [jekyll-paginate, jekyll-feed]
+
+feed:
+  path: feed.xml
+
+# Additional settings available on the front-matter
+# Site logo in the index.html (as in demo.ghost.io)
+# Author's page cover in _layouts/author.html
+# The same for page.html and tag.html layouts
+# Post's page cover as a per-post basis _posts/...
+# Disqus comments as a per-post basis
+# ...
+
+# Settings for builing master branch with travis-ci
+# with jekyll-travis
+
+# Settings for deploy rake task
+# Username and repo of Github repo, e.g.
+# https://github.com/USERNAME/REPO.git
+# username defaults to ENV['GIT_NAME'] used by Travis
+# repo defaults to USERNAME.github.io
+# Branch defaults to "source" for USERNAME.github.io
+# or "master" otherwise
+safe: False
+lsi: False
+username: Losazul
+repo: losazul.github.io/
+branch: master
+relative_source: ../losazul.github.io/
+destination: ../losazul.github.io-pages/
+production_url:  https://losazul.github.io/
+source_url:  https://github.com/Losazul/losazul.github.io/
+
 exclude: ["demo/*", "lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
-plugins: [jekyll-paginate]
-theme: neo-hpstr-jekyll-theme
+
+exclude:
+  - assets/css
+  - node_modules
+  - vendor
+  - .travis.yml
+  - Gemfile
+  - Gemfile.lock
+  - GHOST.txt
+  - gulpfile.js
+  - LICENSE
+  - package.json
+  - Rakefile
+  - README.md
+  - script.py
+  - changelog.md
+  - "*.Rmd"
+  - .git*
