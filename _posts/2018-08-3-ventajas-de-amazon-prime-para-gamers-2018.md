@@ -1,14 +1,19 @@
 ---
 layout: post
-title:  "Las ventajas de Amazon Prime para gamers - ¿merece la pena?"
+current: post
+title:  "Las ventajas gamer de Amazon Prime"
 date:   2018-08-03 00:01:55 +0200
+navigation: True
 excerpt:  Nuestro análisis en el servicio líder en el mundo de ventas online, Amazon Prime. ¿Qué ventajas ofrece? ¿Merece realmente la pena? </br>
 categories: guias-de-compra
-image:
-    feature: /amazonprime.jpg
-tags: [TOP, Gaming, Monitor, Ultrawide, 4K, UHD]
+class: post-template
+cover: images/amazonprime.jpg
+tags: [Artículos]
 comments: true
+author: MG
+
 ---
+
 
 Ser prime engloba una **gran variedad de ventajas**, todas ellas unidas en un mismo pack **por sólo 19,95€ al año.** No olvidemos además de que casi el precio del mismo servicio en otros paises de europa se acerca a los 100€. 
 

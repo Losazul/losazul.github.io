@@ -1,15 +1,20 @@
 ---
 layout: post
+current: post
 title:  "Mejores monitores baratos para gaming (2017)"
 date:   2017-09-22 00:01:55 +0200
+navigation: True
 excerpt: El top de monitores baratos con las mejores características. ¡La alta resolución, las pantallas UltraWide y las grandes pulgadas nunca fueron opciones tan económicas!
 description: El top ranking de monitores baratos para gaming, con las mejores características. ¡La alta resolución y las grandes pulgadas nunca fueron tan económicas!
 categories: guias-de-compra
-image:
-    feature: /monitores-baratos.jpg
-tags: [Barato, Gaming, Monitor, Ultrawide, 4K]
+class: post-template
+cover: images/monitores-baratos.jpg
+tags: [Hardware]
 comments: true
+author: MG
+
 ---
+
 <!--more-->
 <!-- more -->
 <i> **<a href="/guias-de-compra/mejores-monitores-baratos-gaming-del-momento-2018/"><font color="#1a0dab"> Pincha quí para ir a la nueva lista actualizada de los mejores monitores gaming económicos de 2018.</font></a>**</i>

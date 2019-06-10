@@ -1,15 +1,20 @@
 ---
 layout: post
+current: post
 title:  "SNES Classic/Mini: fecha de salida, juegos, y todo lo que necesitas saber"
 date:   2017-09-23 23:00:00 +0200
+navigation: True
 excerpt: El lanzamiento de la SNES Classic se acerca a España. Aquí tienes todo lo que necesitas saber de la consola, sus juegos y lo que esperamos de ella.
 description: El lanzamiento de la SNES Classic se acerca. Aquí tienes todo lo que necesitas saber de la consola, sus juegos, y donde comprarla.
-categories: articulos
-image:
-    feature: /snes-classic-mini.jpg
-tags: [Nintendo, Super Nintendo]
+categories: guias-de-compra
+class: post-template
+cover: images/snes-classic-mini.jpg
+tags: [Artículos]
 comments: true
+author: MG
+
 ---
+
 <!--more-->
 <!-- more -->
 Al igual que la NES Classic el año pasado, la SNES Classic será un producto muy demandado. Con un buen surtido de juegos retro de la librería de la SNES, muchos juegos tendrán una segunda oportunidad para brillar; junto a otros que han resistido el paso de los años y se siguen sosteniendo como los mejores juegos de Nintendo.

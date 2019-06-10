@@ -1,14 +1,18 @@
 ---
 layout: post
+current: post
 title:  "Review Dell S2417DG - 1440p con G-Sync"
 date:   2017-09-13 21:55:55 +0200
-categories: guias-de-compra
+navigation: True
 excerpt: Calificado como el mejor monitor calidad-precio. Este monitor Dell lo posee todo para los jugadores más competitivos. Realizamos un análisis detallado.
 description: Mejor calidad-precio Dell S2417DG - review. Analizamos sus características y te explicamos por qué es el mejor para gaming.
-image:
-    feature: review-s2417dg.jpg
-tags: [Dell, Monitor, Review, Gaming, 2K]
+categories: guias-de-compra
+class: post-template
+cover: images/review-s2417dg.jpg
+tags: [Review]
 comments: true
+author: MG
+
 ---
 <!--more-->
 <!-- more -->

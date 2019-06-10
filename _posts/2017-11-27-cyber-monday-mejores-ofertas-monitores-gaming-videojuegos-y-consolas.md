@@ -1,15 +1,19 @@
 ---
 layout: post
+current: post
 title:  "Cyber Monday: mejores ofertas en juegos, consolas y periféricos gaming"
 date:   2017-11-27 00:55:55 +0200
-excerpt: "Las mejores ofertas en gaming del Cyber Monday: monitores, consolas, teclados, ratones, videojuegos... &#161;No te pierdas ninguna ganga, vienen por tiempo limitado, acaban en menos de 24h!"
-description: "Las mejores ofertas en gaming del Cyber Monday: monitores, consolas, teclados, ratones, videojuegos... &#161;No te pierdas ninguna ganga, vienen por tiempo limitado, acaban en menos de 24h!"
-tags: [Gaming, Cyber Monday, Teclado, Monitor, Ratón, Ofertas]
-categories: guias-de-compra
-image:
-    feature: /cybermonday.jpg
+navigation: True
+excerpt: "Las mejores ofertas en gaming del Cyber Monday: monitores, consolas, teclados, ratones, videojuegos... &#161;No te pierdas ninguna ganga,  por tiempo limitado, acaban en menos de 24h!"
+description: "Las mejores ofertas en gaming del Cyber Monday: monitores, consolas, teclados, ratones, videojuegos... &#161;No te pierdas ninguna ganga, por tiempo limitado, acaban en menos de 24h!"
+class: post-template
+cover: images/cybermonday.jpg
+tags: [Artículos]
 comments: true
+author: MG
+
 ---
+
 <!--more-->
 <!-- more -->
 

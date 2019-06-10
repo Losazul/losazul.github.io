@@ -1,15 +1,20 @@
 ---
 layout: post
-title:  "Black Friday: Monitores, videojuegos y consolas en oferta en vivo"
+current: post
+title:  "Black Friday: Monitores, videojuegos y consolas con grandes ofertas en vivo"
 date:   2017-11-24 00:55:55 +0200
+navigation: True
 excerpt: "Las mejores ofertas en gaming del Black Friday: Monitores, Consolas y Videojuegos. &#161;No te pierdas ninguna ganga, vienen por tiempo limitado, acaban en menos de 24h!"
 description: "Las mejores ofertas en gaming del Black Friday: Monitores, Consolas y Videojuegos. &#161;No te pierdas ninguna ganga!"
-tags: [Gaming, Black Friday, Teclado, Monitor, Ratón]
 categories: guias-de-compra
-image:
-    feature: /black-friday.jpg
+class: post-template
+cover: images/black-friday.jpg
+tags: [Artículos]
 comments: true
+author: MG
+
 ---
+
 <!--more-->
 <!-- more -->
 <h2>

@@ -1,15 +1,21 @@
 ---
 layout: post
-title:  "Review MSI GT75VR Titan Pro en español"
+current: post
+title:  "Análisis MSI GT75VR Titan Pro en español"
 date:   2017-09-22 21:04:00 +0200
+navigation: True
 excerpt: Review completo del MSI GT75VR Titan Pro en español. Hemos estudiado todas sus componentes y realizado un exhaustivo análisis completo, y este es el resultado.
 description: Review completo del MSI GT75VR Titan Pro en español. Hemos estudiado y realizado el análisis completo, y este es el resultado.
-categories: articulos
-image:
-    feature: /review-laptop-titan-pro.jpg
-tags: [Review, Gaming, Portátil, 4K, MSI]
+categories: guias-de-compra
+class: post-template
+cover: images/review-laptop-titan-pro.jpg
+tags: [Hardware]
 comments: true
+author: MG
+
 ---
+
+
 <!--more-->
 <!-- more -->
 Cuando **las compañías intentan continuamente implementar características como pantallas curvas donde no pertenecen**, no podemos evitar preguntarnos por qué trabajan tan duro por incluir tales características de dudable valor. Pero a lo mejor **el mejor ejemplo es el de todos los fabricantes intentando instalar teclados mecánicos en portátiles gaming**. Cada portátil con teclado mecánico parece tener también una lista de contraventajas como precios excesivos o extraños diseños que dejan mal al sistema completo. Pero **el MSI GT75VR Titan Pro ha llegado para demostrar que el problema real era una mala fabricación**, no una mala idea, la que ha hecho los portátiles con teclados mecánicos un chasco. Con el GT75VR es diferente, y **lo llega a justificar**.
@@ -31,7 +37,6 @@ El tacto de las teclas es **inmejorable**, están suficientemente espaciadas y t
 <img src="/images/pictures/titan-pro-4.jpg">
 <br /><br /><br />
 Por encima de todo esto, el **GT75VR también viene con un agradable sistema de sonido** que consiste en dos 3-watt altavoces y un 5-watt sub, **una tarjeta de red para priorizar el tráfico de red durante sesiones gaming** y más puertos/conexiones de las que seguramente necesites. Incluso comparándolo con otros portátiles gaming de 17", el **GT75VR es bastante grande**. Sería contraproducente no mencionar el **gran sonido del ventilador**, que puede ir desde un pequeño susurro hasta un ruido molesto, haciendo que cualquiera en la habitación busque sus cascos. Probablemente no estarás sorprendido al saber que **el GT75VR ha llegado a durar 2:15 minutos en test de descarga de batería**. Pero así es la vida de un grande, poderoso y hambriento portátil gaming.
-<br /><br /><br />
+<br /><br /><br /><center><a href="http://amzn.to/2yuBSfI" target="_blank" class="btn-infor"><font size="4">Más info</font></a><a href="http://amzn.to/2yuBSfI" target="_blank" class="btn-ama"><font size="4">Comprar en Amazon</font></a>
+</center>
 <img src="/images/pictures/titan-pro-5.jpg">
-<br /><br /><center><a href="http://amzn.to/2yuBSfI" target="_blank" class="btn-infor"><font size="4">Más info</font></a><a href="http://amzn.to/2yuBSfI" target="_blank" class="btn-ama"><font size="4">Comprar en Amazon</font></a>
-</center><br />

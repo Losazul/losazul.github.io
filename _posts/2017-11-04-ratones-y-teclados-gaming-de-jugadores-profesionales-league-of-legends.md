@@ -1,15 +1,20 @@
 ---
 layout: post
+current: post
 title:  "Ratón, Teclado y Cascos de los profesionales de League of Legends"
 date:   2017-11-04 21:55:55 +0200
+navigation: True
 excerpt:  ¿Quieres saber cuál es el teclado de Faker? ¿Prefieres el ratón de Bjergsen? ¿O tal vez los cascos de PerkZ? Hemos realizado una extensa investigación, y traemos por primera vez la recopilación definitiva de League of Legends.
 description: ¿Quieres saber cuál es el teclado de Faker? ¿Prefieres ver el ratón de Bjergsen? ¿O tal vez buscas los cascos de PerkZ?.
-tags: [Ratón, Teclado, Logitech, League of Legends, Steel Series, Razer, Corsair]
 categories: guias-de-compra
-image:
-    feature: /ratones-y-teclados-de-profesionales-league-of-legends.jpg
+class: post-template
+cover: images/ratones-y-teclados-de-profesionales-league-of-legends.jpg
+tags: [Hardware]
 comments: true
+author: MG
+
 ---
+
 <!--more-->
 <!-- more -->
 <!-- ### INTRODUCCIÓN ### -->

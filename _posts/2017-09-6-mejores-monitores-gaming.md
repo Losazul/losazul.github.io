@@ -1,14 +1,18 @@
 ---
 layout: post
+current: post
 title:  "Los mejores monitores gaming de 2017"
 date:   2017-09-06 21:55:55 +0200
+navigation: True
 excerpt: Los mejores monitores del momento clasificados por distintas necesidades gamer&#58; resolución, alta tasa de refresco, colores vibrantes, y las tecnologías más modernas.
 description: Recopilamos los mejores monitores gaming de 2017. Pantallas fluidas y vivaces que te harán sumergirte en tus títulos favoritos.
 categories: guias-de-compra
-image:
-    feature: monitorgaming.jpg
-tags: [Gaming, Monitor, Ultrawide, 2K, 4K, G-Sync]
+class: post-template
+cover: images/monitorgaming.jpg
+tags: [Hardware]
 comments: true
+author: MG
+
 ---
 <!--more-->
 <!-- more -->

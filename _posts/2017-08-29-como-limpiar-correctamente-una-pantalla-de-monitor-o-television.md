@@ -1,14 +1,18 @@
 ---
 layout: post
+current: post
 title:  "Cómo limpiar correctamente una pantalla de monitor o televisión"
 date:   2017-08-29 21:55:55 +0200
+navigation: True
 excerpt: Nueve de cada diez usuarios limpian mal su pantalla. En este artículo te enseñamos las herramientas y el procedimiento adecuado para su correcta limpieza.
-image:
-    feature: limpiar.jpg
-categories: articulos
 description: Te enseñamos como limpiar de forma segura la pantalla de tu monitor o televisión. ¡Y te advertimos de los errores más comunes!
-tags: [TV, Monitor, Televisión, Tutorial, Limpieza]
+categories: guias-de-compra
+class: post-template
+cover: images/limpiar.jpg
+tags: [Artículos]
 comments: true
+author: MG
+
 ---
 
 En cualquier pantalla, tanto si intentas eliminar el polvo de tu monitor, la marcas de huellas de tu nueva televisión HD, limpiar la suciedad o eliminar la grasa; se requiere de las herramientas de limpieza adecuadas, así como de un uso adecuado.

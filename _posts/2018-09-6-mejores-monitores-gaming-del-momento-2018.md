@@ -1,14 +1,19 @@
 ---
 layout: post
-title:  "Top monitores gaming de 2018: las mejores pantallas gaming del año"
+current: post
+title:  "Top monitores baratos de 2018: las mejores pantallas gaming"
 date:   2018-09-6 00:01:55 +0200
+navigation: True
 excerpt:  Nuestro recopilación de monitores gaming. La mejor pantalla pertenece al nuevo Alienware AW3418DW ... Se rumorea que fabricantes como Asus y Acer lanzarán próximamente nuevos modelos de 27" con 4k, HDR y G-Sync.
 categories: guias-de-compra
-image:
-    feature: /expensivemonitors.jpg
-tags: [TOP, Gaming, Monitor, Ultrawide, 4K, UHD]
+class: post-template
+cover: images/expensivemonitors.jpg
+tags: [Hardware]
 comments: true
+author: MG
+
 ---
+
 <!--more-->
 <!-- more -->
 
@@ -29,10 +34,10 @@ La respuesta correcta está en función de tus preferencias. ¿Planeas sentarte 
 Seamos sinceros, hay una inmensa cantidad de información, pero no te preocupes. Hemos cubrido todas las bases. Esta lista está repleta de los mejores monitores gaming que puedes comprar en 2018, de modo que tu inversión en el monitor merezca realmente la pena. 
 
 
-
+<br>
 <!--  1) BenQ EX3501R -->
 
-**<a target="_blank" href="https://amzn.to/2M9R5Jq"><font size="5" color="black">BenQ EX3501R</font></a>**<br />
+**<a target="_blank" href="https://amzn.to/2M9R5Jq"><font size="6" color="black">BenQ EX3501R</font></a>**<br />
 **<a target="_blank" href="https://amzn.to/2M9R5Jq"><font color="grey" size="3">HDR y Ultra-Wide, la combinación final</font></a>**
 
 <!-- -->
@@ -47,9 +52,9 @@ Seamos sinceros, hay una inmensa cantidad de información, pero no te preocupes.
 
 <br /><a href="https://amzn.to/2M9R5Jq" target="_blank" class="btn-infor"><font size="4">Más info</font></a><a href="https://amzn.to/2M9R5Jq" target="_blank" class="btn-ama"><font size="4">Comprar en Amazon</font></a></div>
 
-<br />
+<br /><br>
 <!--- 2. Alienware AW3418DW -->
-**<a target="_blank" href="https://amzn.to/2O0yArb"><font size="5" color="black">Alienware AW3418DW</font></a>**<br />
+**<a target="_blank" href="https://amzn.to/2O0yArb"><font size="6" color="black">Alienware AW3418DW</font></a>**<br />
 **<a target="_blank" href="https://amzn.to/2O0yArb"><font color="grey" size="3">El ultra-wide más veloz</font></a>**
 
 <!-- -->
@@ -61,12 +66,12 @@ Seamos sinceros, hay una inmensa cantidad de información, pero no te preocupes.
     <div id="floated"><a target="_blank" href="https://amzn.to/2O0yArb"><img class="wrap" src="/images/pictures/alienwareaw3418dw.jpg"></a>
 
 </div>
-     Ofrece una pantalla elegante pero también colorida de aspecto 21:9, mínimo tiempo de respuesta de 4ms, gran tasa de refresco y nuestro querido G-Sync. Sin embargo, su superioridad va ligada a un alto precio, si buscas ahorrar algo de dinero esta no es tu mejor opción.
+     Ofrece una pantalla elegante pero también colorida de aspecto 21:9, mínimo tiempo de respuesta de 4ms, gran tasa de refresco y nuestro querido G-Sync. Sin embargo, su superioridad va ligada a un alto precio, si buscas ahorrar algo de dinero esta no es tu mejor opción.<br>
 <a href="https://amzn.to/2O0yArb" target="_blank" class="btn-infor"><font size="4">Más info</font></a><a href="https://amzn.to/2O0yArb" target="_blank" class="btn-ama"><font size="4">Comprar en Amazon</font></a></div>
 
-<br />
+<br /><br>
 <!--- 3. asusmg279q -->
-**<a target="_blank" href="https://amzn.to/2OuuWqC"><font size="5" color="black">Asus MG279Q</font></a>**<br />
+**<a target="_blank" href="https://amzn.to/2OuuWqC"><font size="6" color="black">Asus MG279Q</font></a>**<br />
 **<a target="_blank" href="https://amzn.to/2OuuWqC"><font color="grey" size="3">Para el clan AMD</font></a>**
 
 <!-- -->
@@ -76,12 +81,12 @@ Seamos sinceros, hay una inmensa cantidad de información, pero no te preocupes.
 <div id="container">
     <div id="floated"><a target="_blank" href="https://amzn.to/2OuuWqC"><img class="wrap" src="/images/pictures/asusmg279q.jpg"></a> 
 </div>
-    Esta es de las mejores pantallas para usuarios AMD que buscan FreeSync. Nuestros sueños se hacen realidad con este panel IPS 1440p que puede llegar hasta los 144Hz. Enemigos de los snipers, temed ante esta económica maravilla.
+    Esta es de las mejores pantallas para usuarios AMD que buscan FreeSync. Nuestros sueños se hacen realidad con este panel IPS 1440p que puede llegar hasta los 144Hz. Enemigos de los snipers, temed ante esta económica maravilla.<br>
 <a href="https://amzn.to/2OuuWqC" target="_blank" class="btn-infor"><font size="4">Más info</font></a><a href="https://amzn.to/2OuuWqC" target="_blank" class="btn-ama"><font size="4">Comprar en Amazon</font></a></div> 
 
-<br />
+<br /><br>
 <!--- 4. ViewSonic XG2700-4K  -->
-**<a target="_blank" href="https://amzn.to/2n8JPCH"><font size="5" color="black">ViewSonic XG2700-4K</font></a>**<br />
+**<a target="_blank" href="https://amzn.to/2n8JPCH"><font size="6" color="black">ViewSonic XG2700-4K</font></a>**<br />
 **<a target="_blank" href="https://amzn.to/2n8JPCH"><font color="grey" size="3">La mejor resolución al mejor precio</font></a>**
 
 <!-- -->
@@ -91,7 +96,7 @@ Seamos sinceros, hay una inmensa cantidad de información, pero no te preocupes.
 <div id="container">
     <div id="floated"><a target="_blank" href="https://amzn.to/2n8JPCH"><img class="wrap" src="/images/pictures/viewsonicxg2700.jpg"></a>
 </div>
-    Capaz de trabajar con altas resoluciones sin sufrir problemas como ghosting o blurring. Este monitor usa tecnología IPS para reproducir colores ricos y precisos. Sus grandes características y bajo precio le hacen ganar su puesto en el TOP.
+    Capaz de trabajar con altas resoluciones sin sufrir problemas como ghosting o blurring. Este monitor usa tecnología IPS para reproducir colores ricos y precisos. Sus grandes características y bajo precio le hacen ganar su puesto en el TOP.<br>
 <a href="https://amzn.to/2n8JPCH" target="_blank" class="btn-infor"><font size="4">Más info</font></a><a href="https://amzn.to/2n8JPCH" target="_blank" class="btn-ama"><font size="4">Comprar en Amazon</font></a>
 </div>
 
