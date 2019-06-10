@@ -50,8 +50,5 @@
     },
     "config": {
         "posts_per_page": 25
-    },
-    "dependencies": {
-        "js-yaml": "^3.13.1"
     }
 }

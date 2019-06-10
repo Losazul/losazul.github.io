@@ -1,12 +1,12 @@
-MG:
-  username: MG
-  name: Monitores Gaming
-  url_full: https://www.monitoresgaming.com
-  url: monitoresgaming.com
-  bio: The professional gaming publishing platform
+ghost:
+  username: ghost
+  name: Ghost
+  url_full: http://jekyller.github.io/jasper2/
+  url: jekyller.github.io/jasper2
+  bio: The professional publishing platform
   picture: assets/images/ghost.png
-  facebook: monitoresgaming
-  twitter: monitoresgaming
+  facebook: ghost
+  twitter: tryghost
   cover: False
 hannah:
   username: hannah
