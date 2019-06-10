@@ -1,48 +1,38 @@
----
-layout: default
-current: page
-class: page-template
-disqus: false
----
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include head.html %}
+</head>
 
-<!-- < default -->
-<!-- The tag above means: insert everything in this file
-into the {body} of the default.hbs template -->
+<body id="page">
 
-<!-- The big featured header, it uses blog cover image as a BG if available -->
-<header class="site-header outer">
-    <div class="inner">
-        {% include site-nav.html %}
-    </div>
-</header>
+{% include browser-upgrade.html %}
+{% include header.html %}
 
-<!-- Everything inside the #post tags pulls data from the post -->
-<!-- #post -->
+<div id="main" role="main">
+  <article class="hentry">
+    <div class="entry-content">
+      {{ content }}
+      <footer class="entry-meta">
+        {% if page.modified %}<span>Updated on <span class="entry-date date published updated"><time datetime="{{ page.modified }}">{{ page.modified | date: "%B %d, %Y" }}</time></span></span>
+        <span class="author vcard"><span class="fn">{{ site.owner.name }}</span></span>{% endif %}
+        {% if page.share != false %}{% include social-share.html %}{% endif %}
+      </footer>
+    </div><!-- /.entry-content -->
+    {% if page.comments != false and site.disqus_shortname %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
+  </article>
+</div><!-- /#main -->
 
-<main id="site-main" class="site-main outer" role="main">
-    <div class="inner">
+{% include scripts.html %}
 
-        <article class="post-full {{ page.subclass }} {% unless page.cover %}no-image{% endunless %}">
+<div class="footer-wrapper">
+  <footer role="contentinfo">
+    {% include footer.html %}
+  </footer>
+</div><!-- /.footer-wrapper -->
 
-            <header class="post-full-header">
-                <h1 class="post-full-title">{{ page.title }}</h1>
-            </header>
-
-            {% if page.cover %}
-            <figure class="post-full-image" style="background-image: url({{ site.baseurl }}{{ page.cover }})">
-            </figure>
-            {% endif %}
-
-            <section class="post-full-content">
-                {{ content }}
-            </section>
-
-        </article>
-
-    </div>
-</main>
-
-<!-- /post -->
-
-<!-- The #contentFor helper here will send everything inside it up to the matching #block helper found in default.hbs -->
-{% include page-scripts.html %}
+</body>
+</html>

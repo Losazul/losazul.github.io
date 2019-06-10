@@ -1,0 +1,36 @@
+<style>
+.fa {
+
+	margin-left: 20px;
+  margin-bottom: 20px;
+
+}
+</style>
+
+<ul></ul><span>  <b><a href="/"><font color="505572">Copyright &copy; {{ site.time | date: '%Y' }}</font> Monitores Gaming</a></b></span> 
+<br><br>
+{% if site.twitter_username %}
+    <a href="https://twitter.com/{{ site.twitter_username }}" target="blank">
+      <i class="fa fa-twitter"></i> Twitter
+    </a>
+{% endif %}
+
+{% if site.google_plus_username %}
+    <a href="https://plus.google.com/{{ site.google_plus_username }}" target="blank">
+      <i class="fa fa-google-plus"></i> Google+
+    </a>
+{% endif %}
+
+{% if site.facebook_username %}
+    <a href="https://www.facebook.com/{{ site.facebook_username }}" target="blank">
+      <i class="fa fa-facebook"></i> Facebook
+    </a>
+{% endif %}
+    <a href="/sobre-nosotros" target="blank">
+<i class="fa"></i> Sobre nosotros
+	</a>
+
+<!-- ESTO NO VA
+Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://github.com/aron-bordin/neo-hpstr-jekyll-theme" rel="nofollow">Neo-HPSTR Theme</a>.</span>
+-->
+
