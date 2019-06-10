@@ -1,3 +1,68 @@
+.btn-ama {
+    display: inline-block;
+    margin-bottom: 0px;
+    padding: 8px 18px;
+    @include font-rem(14);
+    background-color: #FFC361;
+    color: $black;
+    border-width: 0px !important;
+    border-style: solid !important;
+    border-color: #8E8E8E;
+    border-radius: 3px;
+    transition: all 0.4s ease;
+
+}
+    .btn-ama:visited {
+      color: $black;
+    }
+    .btn-ama:hover {
+      background-color: #f9a825;
+      color: black;
+      
+    }
+  
+  .btn-infor {
+    display: inline-block;
+  /*  margin: 10px; */
+    margin-right: 10px;
+    margin-top: 15px;
+    display: inline-block;
+    margin-bottom: 15px;
+    padding: 8px 18px;
+    @include font-rem(14);
+    background-color: #D3D3D3;
+    color: #262626;
+    border-width: 0px !important;
+    border-style: solid !important;
+    border-color: #262626;
+    border-radius: 3px;
+    transition: all 0.4s ease;
+
+  }
+    .btn-infor:visited {
+      color: #1b1b1b;
+    }
+    .btn-infor:hover {
+      background-color: #858585;
+      color: $white;
+    }
+  
+ 
+/* Tablita post */
+
+#container{
+    width: auto;
+    margin: 0em;
+}
+#floated{
+    float: left;
+    width: 42%;
+// BASURA - estaba on    background: red;
+    margin-right: 20px;
+    margin-bottom: 1px;
+}
+
+
 /* Variables
 /* ---------------------------------------------------------- */
 
@@ -411,7 +476,7 @@ blockquote cite a {
 }
 
 a {
-    color: color(var(--blue) l(-5%));
+    color: color(var(--red) l(-5%));
     text-decoration: none;
 }
 

@@ -1,17 +1,16 @@
 ---
 layout: page
 current: about
-title: About
+title: Sobre nosotros
 navigation: true
 logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
 ---
+<br /><img src="/images/sobre-nosotros.jpg">
+<center>La oferta del mercado es practicamente ilimitada. Sin conocimientos previos, es practicamente imposible elegir cuál es el producto que más se acerca a tus necesidades. Por esta razón decidimos crear Monitores Gaming. Escribimos reseñas de productos del mundo de los videojuegos y la tecnología. Además os mantenemos al día con noticias, artículos y guías de compra para elegir entre los mejores productos. La aspiración fundamental de este proyecto es ayudar al jugador a encontrar el mejor hardware gaming acorde a sus necesidades y presupuesto. Creemos que disfrutareis de nuestra página y la encontrar útil. Finalmente, nos complace anunciar que este proyecto ha sido creado sin ser comisiones de ningún fabricante, por lo que disponemos la libertad de ser realmente objetivos. Vuestros «feedbacks», críticas y comentarios son más que bienvenidos. 
+<br><br>
+<h4> Amazon afiliados </h4>
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+En Monitores Gaming nos alegramos de poder trabajar junto con «Amazon afiliados». Esta colaboración implica que si tras pinchar en uno de nuestros enlaces de Amazon, se compra un producto en menos de 24 horas, una pequeña parte del dinero será destinado a financiar nuestra web para que continúe gratis y funcional. ¡Gracias por colaborar!</center>
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
-
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
-
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
