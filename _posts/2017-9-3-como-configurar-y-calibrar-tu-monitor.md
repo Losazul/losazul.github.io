@@ -5,7 +5,7 @@ title: "La configuración óptima para tu monitor"
 date:   2017-09-3 21:55:55 +0200
 navigation: True
 excerpt: Sigue estos pasos para sacar el máximo rendimiento a tu pantalla. Si quieres optimizar tu monitor, debes realizar una serie de simples configuraciones.
-categories: guias-de-compra
+categories: articulos
 class: post-template
 cover: images/calibrar.jpg
 tags: [Artículos]

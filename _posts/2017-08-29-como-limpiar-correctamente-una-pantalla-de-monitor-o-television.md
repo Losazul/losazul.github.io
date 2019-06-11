@@ -6,7 +6,7 @@ date:   2017-08-29 21:55:55 +0200
 navigation: True
 excerpt: Nueve de cada diez usuarios limpian mal su pantalla. En este artículo te enseñamos las herramientas y el procedimiento adecuado para su correcta limpieza.
 description: Te enseñamos como limpiar de forma segura la pantalla de tu monitor o televisión. ¡Y te advertimos de los errores más comunes!
-categories: guias-de-compra
+categories: articulos
 class: post-template
 cover: images/limpiar.jpg
 tags: [Artículos]

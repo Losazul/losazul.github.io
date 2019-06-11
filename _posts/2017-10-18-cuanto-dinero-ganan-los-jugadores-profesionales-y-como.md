@@ -6,7 +6,7 @@ date:   2017-10-18 23:00:00 +0200
 navigation: True
 excerpt: ¿Sabes cúal es la friolera cantidad de dinero que ganan los jugadores profesionales de Sports? Todo esto se debe a  publicidad, streaming, salarios y ganancias.
 description: ¿Sabes cúal es la friolera cantidad de dinero que ganan los jugadores profesionales de Sports? Todo esto se debe a  publicidad, streaming, salarios y ganancias.
-categories: guias-de-compra
+categories: articulos
 class: post-template
 cover: images/euros.jpg
 tags: [Artículos]

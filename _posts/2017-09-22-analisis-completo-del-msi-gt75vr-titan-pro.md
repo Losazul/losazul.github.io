@@ -6,7 +6,7 @@ date:   2017-09-22 21:04:00 +0200
 navigation: True
 excerpt: Review completo del MSI GT75VR Titan Pro en español. Hemos estudiado todas sus componentes y realizado un exhaustivo análisis completo, y este es el resultado.
 description: Review completo del MSI GT75VR Titan Pro en español. Hemos estudiado y realizado el análisis completo, y este es el resultado.
-categories: guias-de-compra
+categories: articulos
 class: post-template
 cover: images/review-laptop-titan-pro.jpg
 tags: [Hardware]

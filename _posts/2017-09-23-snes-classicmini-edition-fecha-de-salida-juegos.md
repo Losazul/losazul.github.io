@@ -6,7 +6,7 @@ date:   2017-09-23 23:00:00 +0200
 navigation: True
 excerpt: El lanzamiento de la SNES Classic se acerca a España. Aquí tienes todo lo que necesitas saber de la consola, sus juegos y lo que esperamos de ella.
 description: El lanzamiento de la SNES Classic se acerca. Aquí tienes todo lo que necesitas saber de la consola, sus juegos, y donde comprarla.
-categories: guias-de-compra
+categories: articulos
 class: post-template
 cover: images/snes-classic-mini.jpg
 tags: [Artículos]

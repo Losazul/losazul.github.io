@@ -6,7 +6,7 @@ date:   2017-09-09 21:55:55 +0200
 navigation: True
 excerpt: Desde sumergirte en tus mundos favoritos, hasta sacar ventaja en los juegos competitivos. ¡Te explicamos lo que no sabías de la experiencia 21:9!
 description: 21:9, te contamos todo sobre la experiencia ultrawide. ¿Sabías que aportan ventajas en los juegos competitivos?  ¡Estas pantallas de monitor están llenas de trucos de los que nos podemos beneficiar!
-categories: guias-de-compra
+categories: articulos
 class: post-template
 cover: images/experiencia-21-9.jpg
 tags: [Hardware]

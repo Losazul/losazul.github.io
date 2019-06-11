@@ -6,7 +6,7 @@ date:   2017-09-25 14:00:00 +0200
 navigation: True
 excerpt: Las 12 curiosidades sobre videojuegos que tienes que conocer. 
 description: Las 12 curiosidades sobre videojuegos que tienes que conocer.
-categories: guias-de-compra
+categories: articulos
 class: post-template
 cover: images/13-curiosidades-videojuegos.jpg
 tags: [Artículos]
