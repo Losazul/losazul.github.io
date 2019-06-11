@@ -17,7 +17,7 @@ logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 production_url: https://monitoresgaming.com/
 CNAME: www.monitoresgaming.com
-
+name: Monitores Gaming
 # Social info
 navigation: True # show the navbar links
 subscribers: False # you need to connect an external service for this to work,
