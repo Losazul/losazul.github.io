@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-title:  "Top monitores baratos de 2018: las mejores pantallas gaming"
+title:  "Top monitores de 2018: las mejores pantallas gaming"
 date:   2018-11-7 00:01:55 +0200
 navigation: True
 excerpt:  El top de monitores baratos de 2018 y con las mejores características. ¡La alta resolución, las pantallas UltraWide y las altas pulgadas a tu alcance! 
@@ -19,7 +19,7 @@ author: MG
 
 
 Os traemos una lista actualizada en Noviembre de 2018 con los mejores monitores gaming del momento, al mejor precio. 
-<img src="images/pictures/monitoresbaratos22018.jpg" width="85%">
+<img src="/images/pictures/monitoresbaratos22018.jpg" width="85%">
 <i>Si quieres saber cómo elegir un monitor gaming, echa un vistazo <a href="/guias-de-compra/guia-para-elegir-que-monitor-comprar-en-2017/"><font color="#1a0dab">aquí</font></a>.</i>
 
 ## Lista de los mejores monitores gaming económicos (actualizada Noviembre 2018)
