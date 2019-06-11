@@ -2,11 +2,10 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 100 # it will paginate after this number
-language: 'en-uk'
+language: 'es-ES'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-meinvento: https://losazul.github.io
 baseurl: /
 # Website info
 title: Monitores Gaming
@@ -15,9 +14,8 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://losazul.github.io/jasper2/
-source_url: https://github.com/losazul/losazul.github.io/
-CNAME: www.monitoresgaming.com
+production_url: monitoresgaming.com
+CNAME: monitoresgaming.com
 
 # Social info
 navigation: True # show the navbar links
@@ -76,10 +74,7 @@ lsi: False
 username: losazul
 repo: losazul.github.io
 branch: master
-relative_source: ../jasper2/
 destination: ../jasper2-pages/
-production_url:  https://jekyller.github.io/jasper2/
-source_url:  https://github.com/jekyller/jasper2/
 
 exclude:
   - assets/css
