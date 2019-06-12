@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /CNAME
+Disallow: /404
+
+sitemap: https://www.monitoresgaming.com/atom.xml

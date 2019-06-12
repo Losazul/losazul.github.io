@@ -8,6 +8,7 @@ words_per_minute: 200
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
 meinvento: https://www.monitoresgaming.com/
+mebarra: https://www.monitoresgaming.com
 # Website info
 title: Monitores Gaming
 description: Monitores Gaming, sitio de referencia de pantallas para PC. ¿HD o 4k? ¿Samsung o Asus? ¿Dell o HP? ¡Análisis de los mejores modelos 2019!
@@ -17,7 +18,7 @@ logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 production_url: https://monitoresgaming.com/
 CNAME: www.monitoresgaming.com
-name: Monitores Gaming
+name: Monitores Gaming #forsitemap?  
 # Social info
 navigation: True # show the navbar links
 subscribers: False # you need to connect an external service for this to work,
