@@ -199,6 +199,41 @@ into the {body} of the default.hbs template -->
 <!-- more -->
 <!-- ### INTRODUCCIÓN ### -->
 
+<script>
+
+    /* Light YouTube Embeds by @labnol */
+    /* Web: http://labnol.org/?p=27941 */
+
+    document.addEventListener("DOMContentLoaded",
+        function() {
+            var div, n,
+                v = document.getElementsByClassName("youtube-player");
+            for (n = 0; n < v.length; n++) {
+                div = document.createElement("div");
+                div.setAttribute("data-id", v[n].dataset.id);
+                div.innerHTML = labnolThumb(v[n].dataset.id);
+                div.onclick = labnolIframe;
+                v[n].appendChild(div);
+            }
+        });
+
+    function labnolThumb(id) {
+        var thumb = '<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg">',
+            play = '<div class="play"></div>';
+        return thumb.replace("ID", id) + play;
+    }
+
+    function labnolIframe() {
+        var iframe = document.createElement("iframe");
+        var embed = "https://www.youtube.com/embed/ID?autoplay=1";
+        iframe.setAttribute("src", embed.replace("ID", this.dataset.id));
+        iframe.setAttribute("frameborder", "0");
+        iframe.setAttribute("allowfullscreen", "1");
+        this.parentNode.replaceChild(iframe, this);
+    }
+
+</script>
+
 <p>Seguir la pista de la inmesa cantidad de juegos anunciados en la E3 es casi tan díficil como no perderse con la lista de nuevos títulos de Steam. Para ayudar, hemos recopilado una gran lista de todo lo que hemos visto que definitivamente (o posiblemente) van a salir para PC.</p>
 
 <p>Actualizaremos esta lista a lo largo del E3, añadiendo nuevos trailers y aquello que descubramos en la semana. A la velocidad del E3, el artículo puede estar algo anticuado rápidamente, pero actualizaremos tan rápido como podamos.</p>
@@ -207,14 +242,15 @@ into the {body} of the default.hbs template -->
 <p><strong>Desarrollador</strong>: Fom Software <br />
 <strong>¿Saldrá para PC?</strong>: Seguramente <br />
 <strong>¿Cuándo estará a la venta?</strong>: Antes que el siguiente libro de George R.R. Martin</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nIz0_PoE8jA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="nIz0_PoE8jA"></div>
+
 <p>La rumoreada colaboración entre el autor de Juego de Tronos y From Software es real, y según <em>Hidetaka Miyazaki</em> es el mayor de sus títulos. Sólo es una cinemática, seguramente la intro del juego. Como siempre, no nos decepciona y es muy evocativo.</p>
 
 <h2 id="cyberpunk-2077">Cyberpunk 2077</h2>
 <p><strong>Desarrollador</strong>: CD Projekt <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 16 de abril de 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qIcTM8WXFjk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="qIcTM8WXFjk"></div>
 <p>La E3 nos dejó nuevas imágenes de <em>Cyberpunk 2077</em>. Esta nueva cinemática fue debutada en la conferencia de Microsoft. Después se mostró un hands-off gameplay en directo.</p>
 
 <p>Como el último año, CD Projekt ha decidido no publicar directamente un video de la demo. Tendremos que esperar a ver que lo saquen online.</p>
@@ -223,7 +259,7 @@ into the {body} of the default.hbs template -->
 <p><strong>Desarrollador</strong>: Xbox Game Studios <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ReDDgFfWlS4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="ReDDgFfWlS4"></div>
 <p>Una de las mayores sorpresas en la conferencia de Microsoft fue el retorno de Flight Simulator, con gráficos muy detallados. Es demasiado pronto para saber si llegará a la complejidad de sus predecesores, pero por ahora parece que van en serio.</p>
 
 <h2 id="watch-dogs-legion">Watch Dogs Legion</h2>
@@ -237,189 +273,188 @@ En Watch Dogs Legion, podrás jugar como cualquier NPC dentro del juego. Y tiene
 <p><strong>Desarrollador</strong>: Obsidian <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 25 de octubre de 2019</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5LaYTtIkag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="h5LaYTtIkag"></div>
 <p>Nos dieron una fecha de salida y un nuevo trailer para el nuevo RPG de Obsidian basado en ciencia ficción, de la mano de los creadores de Fallout y Vampire: the Masquerade - Bloodlines. Veremos más a lo largo de la semana, y os mantendremos informados.</p>
 
 <h2 id="bleeding-edge">Bleeding Edge</h2>
 <p><strong>Desarrollador</strong>: Ninja Theory <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 25 de octubre de 2019</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mpU8kyX6ae0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="mpU8kyX6ae0"></div>
 <p>Un vivo videojuego melee PvP de combates, de los creadores de Hellblade.</p>
 
 <h2 id="phantasy-star-online-2">Phantasy Star Online 2</h2>
 <p><strong>Desarrollador</strong>: Sega <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: Primavera de 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BXfh_h6Ky6U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="BXfh_h6Ky6U"></div>
 <p>Fue lanzado originalmente en 2012(!) en Japón, y ha sido reclamado en occidente durante muchos años. Por alguna razón, Sega no llegó a hacerlo nunca. Ha requerido algo de tiempo, y un trato con Microsoft para que el milagro ocurra.</p>
 
 <h2 id="halo-infinite">Halo Infinite</h2>
 <p><strong>Desarrollador</strong>: 343 Industries <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: Navidades de 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZtgzKBrU1GY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="ZtgzKBrU1GY"></div>
 <p>Tras el vago teaser del año pasado, por fin hemos podido echar un vistazo a la sexta aventura central del Master Chief. Falta bastante todavía, pues saldrá junto a la nueva Xbox de finales de 2020, pero saldrá a la vez también para PC. Microsoft lo plantea como un cambio de aires, por lo que aunque la historia toma acción después de los eventos de Halo 5, no es una directa continuación de la historia.</p>
 
 <h2 id="final-fantasy-7-remake">Final Fantasy 7 Remake</h2>
 <p><strong>Desarrollador</strong>: Square Enix <br />
 <strong>¿Saldrá para PC?</strong>: Eso queremos. Porfa. <br />
 <strong>¿Cuándo estará a la venta?</strong>: 3 de marzo de 2020 (PS4)</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eVjwc1H7r74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="eVjwc1H7r74"></div>
 <p>No sabemos si saldrá para ordenador, en esta página la esperanza es lo último que se pierde. Considerando que Final Fantasy XV tardó año y medio en llegar a PC, no esperamos que vuelvan a hacer exactamente lo mismo. Han anunciado que saldrá primero en PS4, lo que sugiere que acabará en otras plataformas.</p>
 
 <h2 id="deathloop">Deathloop</h2>
 <p><strong>Desarrollador</strong>: Arkane <br />
 <strong>¿Saldrá para PC?</strong>: Seguramente <br />
 <strong>¿Cuándo estará a la venta?</strong>: Sin fecha de salida</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MXv5IDp8y74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="MXv5IDp8y74"></div>
 <p>El nuevo juego de Arkane entrelaza dos asesinos en un bucle temporal, y tiene el estilo que caracteriza la marca Arkane. No sabemos mucho más sobre él, pero suena bien.</p>
 
 <h2 id="ghostwire-tokyo">Ghostwire: Tokyo</h2>
 <p><strong>Desarrollador</strong>: Tango Gameworks <br />
 <strong>¿Saldrá para PC?</strong>: Probablemente <br />
 <strong>¿Cuándo estará a la venta?</strong>: Sin fecha de salida</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9qrXLQqHkJk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="9qrXLQqHkJk"></div>
 <p>Un nuevo juego de Shinji Mikami, famoso gracias al Resident Evil, RE4, Vanquish, y más reciente The Evil Within. También viene de la mano del director creativo Ikumi Nakamura. La población de Tokyo se está desvaneciendo, al mismo tiempo que fuerzas oscuras ocultas empiezan a sumergir. ¿Estarán ambas relacionadas? Ah, y tu personaje tendrá un arco.</p>
 
 <h2 id="ori-and-the-will-of-the-wisps">Ori and the Will of the Wisps</h2>
 <p><strong>Desarrollador</strong>: Moon Studios <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 11 de febrero de 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2reK8k8nwBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<p>La secuela del maravilloso juego de plataforma ya tiene fecha de salida, aunque queda bastante todavía para principios de 2020.</p>
+<div class="youtube-player" data-id="2reK8k8nwBc"></div>
 
 <h2 id="minecraft-dungeons">Minecraft Dungeons</h2>
 <p><strong>Desarrollador</strong>: Mojang <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: Primavera de 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G0yh51p9P80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="G0yh51p9P80"></div>
 <p>Minecraft es un todoterreno, y Microsoft llevará este nuevo título tanto a PC como a PS4 y Nintendo Switch.</p>
 
 <h2 id="blair-witch-project">Blair Witch Project</h2>
 <p><strong>Desarrollador</strong>: Bloober Team <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 30 de agosto de 2019</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhaDPDf-xsM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="RhaDPDf-xsM"></div>
 <p>Este juego ya es prácticamente una realidad, saldrá pronto. Viene de la mano de los creadores de The Layers of Fear Games.</p>
 
 <h2 id="baldurs-gate-3">Baldur’s Gate 3</h2>
 <p><strong>Desarrollador</strong>: Larian <br />
 <strong>¿Saldrá para PC?</strong>: ¿Lo dudabas? <br />
 <strong>¿Cuándo estará a la venta?</strong>: Sin fecha de salida</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WvMf_DcyWbI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="WvMf_DcyWbI"></div>
 <p>Larian nos vuelve a traer la ciudad de Baldur’s Gate, y se pasaron por la conferencia para hablarnos sobre ella. Su precuela es ya algo antigua, pero sus fans están emocionados al ver que los Illithids tendrán un rol más importante en esta secuela.</p>
 
 <h2 id="battletoads">Battletoads</h2>
 <p><strong>Desarrollador</strong>: Dlala Studios <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: Por anunciar</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V1XcmQCgABs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="V1XcmQCgABs"></div>
 <p>Un juego de mutiljugador para cooperar con 3 amigos. Basado en animación 2D, esto es Battletoads en 2019.</p>
 
 <h2 id="age-of-empires-2-definitive-edition">Age of Empires 2 Definitive Edition</h2>
 <p><strong>Desarrollador</strong>: Forgotten Empires, Tantalus y Wicked Witch <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: Otoño de 2019</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZOgBVR21pWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="ZOgBVR21pWg"></div>
 <p>Microsoft nos dió una gran alegría al anunciar lo pronto que saldrá este juego. Tras años sin escuchar nada del remake, sabemos que habrá una beta jugable en otoño.</p>
 
 <h2 id="psychonauts-2">Psychonauts 2</h2>
 <p><strong>Desarrollador</strong>: Double Fine <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: Por anunciar</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xV3LGhgDQbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="xV3LGhgDQbc"></div>
 <p>Microsoft nos trae Double Fine. Flipante. Y va a salir para las mismas plataformas que la última vez, incluyendo PC. No hay fecha de salida, pero el desarrollo va según lo esperado.</p>
 
 <h2 id="spiritfarer">Spiritfarer</h2>
 <p><strong>Desarrollador</strong>: Thunderlotus <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YnuEvePlxWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="YnuEvePlxWI"></div>
 <p>Un juego peculiar donde navegas junto a tu tropa de fantasmas, explorando el oceano y cuidando a tus invitados antes de que lleguen a su destino final.</p>
 
 <h2 id="wasteland-3">Wasteland 3</h2>
 <p><strong>Desarrollador</strong>: InXile <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: Por anunciar</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XCXdCjpBVA8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="XCXdCjpBVA8"></div>
 <p>Wasteland 2 llegó al éxito rápidamente, prometiendo traer de vuelta el juego que inspiró al Fallout original. Antes de ser traido por Microsoft, InXile hizo crowdfunding para esta tercer entrega, abandonando el desierto por la nieve de Colorado.</p>
 
 <h2 id="lego-star-wars-the-skywalker-saga">Lego Star Wars: The Skywalker Saga</h2>
 <p><strong>Desarrollador</strong>: TT Games <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GGtc5f0C3-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="GGtc5f0C3-4"></div>
 <p>Las 9 principales películas de Star Wars han sido comprimidas en este nuevo videojuego.</p>
 
 <h2 id="dying-light-2">Dying Light 2</h2>
 <p><strong>Desarrollador</strong>: Techland <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: Primavera 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N1_7wjuzqwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<p>El mundo ha sido debastado por el virus zombie, y como imaginas, ol’ Aiden es una desafortunada víctima de la epidemia. Por suerte, no ha acabado con sus habilidades de Parkour y sus talentos para matar zombies, que no son pocos.</p>
+<div class="youtube-player" data-id="N1_7wjuzqwI"></div>
+<p>El mundo ha sido debastado por el virus zombie, y como imaginas, Aiden es una desafortunada víctima de la epidemia. Por suerte, no ha acabado con sus habilidades de Parkour y sus talentos para matar zombies, que no son pocos.</p>
 
 <h2 id="dragon-ball-z-kakarot">Dragon Ball Z: Kakarot</h2>
 <p><strong>Desarrollador</strong>: CyberConnect2 <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: Principios de 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OSgGsTnKZ-Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="OSgGsTnKZ-Y"></div>
 <p>Otro de la larga lista de videojuegos de Dragon Ball Z, contando la historia de Goku. Sin embargo, este destaca por su increible presentación. Se conocía previamente por Project Z, y ahora tiene una ventana de salida sobre principios de 2020. El trailer lo denomina como acción-RPG, pero no sabemos como se asemeja al resto de videojuegos hasta que veamos un gameplay real.</p>
 
 <h2 id="crossfire-x">CrossFire X</h2>
 <p><strong>Desarrollador</strong>: Smilegate, Remedy <br />
 <strong>¿Saldrá para PC?</strong>: Con mucha seguridad <br />
 <strong>¿Cuándo estará a la venta?</strong>: 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lq-wlu2pwdw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="lq-wlu2pwdw"></div>
 <p>El nuevo free-to-play shooter táctico va a llegar a Xbox y posiblemente a PC con una campaña de Remedy. Sólo hemos visto la cinemática, pero podríamos resumirlo en un Counter-Strike coreano.</p>
 
 <h2 id="way-to-the-woods">Way To The Woods</h2>
 <p><strong>Desarrollador</strong>:  Anthony Tan<br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bM690dmXr8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="bM690dmXr8o"></div>
 <p>Juega como un adorable ciervo que intenta encontrar su camino de vuelta a casa, donde se encontrará con restos de antiguas civilizaciones. Parece un juego sereno y fantástico de exploración, con pequeños puzzles.</p>
 
 <h2 id="marvels-avengers">Marvel’s Avengers</h2>
 <p><strong>Desarrollador</strong>: Crystal Dynamics (con ayuda de Eidos Montreal) <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 15 de mayo de 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a-gNBAhDUH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="a-gNBAhDUH8"></div>
 <p>Por fin hemos podido echarle un vistazo al nuevo juego cooperativo de Square Enix en el universo de Marvel. El trailer muestra algunas semenjazas algo extrañas con Avengers parecidos y poco gameplay.</p>
 
 <h2 id="darksiders-genesis">Darksiders Genesis</h2>
 <p><strong>Desarrollador</strong>: Airship Syndicate <br />
 <strong>¿Saldrá para PC?</strong>: Apostamos que sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: Por anunciar</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UQ5ifGqYWTI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="UQ5ifGqYWTI"></div>
 <p>Darksiders Genesis no solo trae un nuevo centauro de la apocalipsis, sino un completo nuevo género para la serie. En vez de un juego en tercera persona, este se asemeja más al estilo de Diablo. Parece que podremos jugar con amigos en un modo cooperativo.</p>
 
 <h2 id="wolfenstein-youngblood">Wolfenstein: Youngblood</h2>
 <p><strong>Desarrollador</strong>: MachineGames <br />
 <strong>¿Saldrá para PC?</strong>: Apostamos que sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 26 de julio de 2019</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O6K_ZzMWTTo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="O6K_ZzMWTTo"></div>
 <p>Son los 80 y los nazis han ocupado Francia. Bj Blazkowicz está descansando mientras sus hijas gemelas se ponen manos a la obra. ¡Dos hijas significa modo cooperativo!</p>
 
 <h2 id="jedi-fallen-order">Jedi: Fallen Order</h2>
 <p><strong>Desarrollador</strong>: Respawn Entertainment <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 15 de noviembre de 2019</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8939aURV9Dc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="8939aURV9Dc"></div>
 <p>Esta saga ha pasado por malos momentos, pero este título parece interesante. Tenemos dos trailers, uno por EA y otro por Microsoft.</p>
 
 <h2 id="gears-5">Gears 5</h2>
 <p><strong>Desarrollador</strong>: The Coalition <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 10 de septiembre de 2019</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ErqsgG0HRR8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="ErqsgG0HRR8"></div>
 <p>Estará en Xbox Game Pass, y será lanzado unos días antes para suscriptores. El trailer de arriba enseña un nuevo modo multijugador cooperativo llamado Escape, que también incluirá un ángulo creativo por parte del jugador.</p>
 
 <h2 id="ghost-recon-breakpoint">Ghost Recon Breakpoint</h2>
 <p><strong>Desarrollador</strong>: Ubisoft Paris <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 4 de octubre de 2019</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XvHGqvV0qRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="XvHGqvV0qRg"></div>
 <p>Ubisoft nos dió un gran primer vistazo de Breakpoint hace poco más de un mes, pero ha enseñado más en el evento de Stadia. Esperamos más en la conferencia de Ubisoft.</p>
 
 <h2 id="fifa-20">Fifa 20</h2>
@@ -433,229 +468,230 @@ Como era de esperar, EA guardo tiempo para hablar sobre el FIFA 20. Parece estar
 <p><strong>Desarrollador</strong>: Survios <br />
 <strong>¿Saldrá para PC?</strong>: Es VR, así que sí<br />
 <strong>¿Cuándo estará a la venta?</strong>: 2019</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qhre5zGqDS0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="qhre5zGqDS0"></div>
 <p>Este juego tiene pedigree, pues viene del equipo encargado de Raw Data y Creed.</p>
 
 <h2 id="devolver-bootleg">Devolver Bootleg</h2>
 <p><strong>Desarrollador</strong>: doinksoft <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: ¡Ahora!</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A6cAS2hFvp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="A6cAS2hFvp0"></div>
 
 <h2 id="fall-guys">Fall Guys</h2>
 <p><strong>Desarrollador</strong>: Mediatonic <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2OAVHWmeV0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="2OAVHWmeV0c"></div>
 
 <h2 id="carrion">Carrion</h2>
 <p><strong>Desarrollador</strong>: Phobia Game Studio <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 1 de junio de 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-L0_TJ4i-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="o-L0_TJ4i-o"></div>
 <p>Una historia de horror algo gore, donde controlas a un monstruo que mata a los humanos que han experimentado con él. Conforme destruyas las instalaciones, crecerás y obtendrás nuevas habilidades.</p>
 
 <h2 id="my-friend-pedro">My Friend Pedro</h2>
 <p><strong>Desarrollador</strong>: DeadToast Entertainment <br />
 <strong>¿Saldrá para PC?</strong>: Desde luego <br />
 <strong>¿Cuándo estará a la venta?</strong>: 20 de junio de 2019</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zaPBAKg3VT4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="zaPBAKg3VT4"></div>
 
 <h2 id="the-messenger-picnic-panic">The Messenger: Picnic Panic</h2>
 <p><strong>Desarrollador</strong>: Sabotage <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 11 de Julio</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GjmIWMataSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="GjmIWMataSI"></div>
 
 <h2 id="tales-of-arise">Tales of Arise</h2>
 <p><strong>Desarrollador</strong>: Bandai Namco Studios <br />
 <strong>¿Saldrá para PC?</strong>: Probablemente <br />
 <strong>¿Cuándo estará a la venta?</strong>: 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vS4zlqE6euQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="vS4zlqE6euQ"></div>
 
 <h2 id="gods--monsters">Gods &amp; Monsters</h2>
 <p><strong>Desarrollador</strong>: Ubisoft <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 25 de febrero de 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Egzb6_HCqQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="Egzb6_HCqQw"></div>
 
 <h2 id="roller-champions">Roller Champions</h2>
 <p><strong>Desarrollador</strong>: Ubisoft <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cFdyq9I1HZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="cFdyq9I1HZo"></div>
 
 <h2 id="evil-genius-2">Evil Genius 2</h2>
 <p><strong>Desarrollador</strong>: Rebellion <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KTvZtCOEEI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="6KTvZtCOEEI"></div>
 
 <h2 id="vampire-the-masquerade---bloodlines-2">Vampire: The Masquerade - Bloodlines 2</h2>
 <p><strong>Desarrollador</strong>: Hardsuit Labs <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: Marzo de 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cFLXoGzXxJc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="cFLXoGzXxJc"></div>
 
 <h2 id="starmancer">Starmancer</h2>
 <p><strong>Desarrollador</strong>: Ominux Games <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: Por anunciar</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPHYviL8lcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="MPHYviL8lcA"></div>
 
 <h2 id="chivalry-2">Chivalry 2</h2>
 <p><strong>Desarrollador</strong>: Torn Banner Studios <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pytazpmR6eE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="pytazpmR6eE"></div>
 
 <h2 id="mosaic">Mosaic</h2>
 <p><strong>Desarrollador</strong>: Krillbite Studio <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: este año</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BSYPEljXohk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="BSYPEljXohk"></div>
 
 <h2 id="midnight-ghost-hunt">Midnight Ghost Hunt</h2>
 <p><strong>Desarrollador</strong>: Vaulted Sky Games <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: Alpha este verano</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T8C1Jj9f8OQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="T8C1Jj9f8OQ"></div>
 
 <h2 id="unexplored-2">Unexplored 2</h2>
 <p><strong>Desarrollador</strong>: Ludomotion <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br /></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aEfm_lt4cos" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="aEfm_lt4cos"></div>
 
 <h2 id="conan-chop-chop">Conan Chop Chop</h2>
 <p><strong>Desarrollador</strong>: Funcom <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 3 de septiembre</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RUecb1ABpeM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="RUecb1ABpeM"></div>
 
 <h2 id="last-oasis">Last Oasis</h2>
 <p><strong>Desarrollador</strong>: Donkey Crew <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 3 de septiembre</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VmDbh9J2X6g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="VmDbh9J2X6g"></div>
 
 <h2 id="zombie-army-4-dead-war">Zombie Army 4: Dead War</h2>
 <p><strong>Desarrollador</strong>: Rebellion <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: Por anunciar</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7n6qbv1lsiQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="7n6qbv1lsiQ"></div>
 
 <h2 id="griftlands">Griftlands</h2>
 <p><strong>Desarrollador</strong>: Klei <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: Alpha en julio</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rOy-0Folet4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="rOy-0Folet4"></div>
 
 <h2 id="remnant-from-the-ashes">Remnant: From the Ashes</h2>
 <p><strong>Desarrollador</strong>: Gunfire Games <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 20 de agosto</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pcBei3JUz5s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="pcBei3JUz5s"></div>
 
 <h2 id="planet-zoo">Planet Zoo</h2>
 <p><strong>Desarrollador</strong>: Frontier <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 5 de noviembre</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wyMAUjcRvr8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="wyMAUjcRvr8"></div>
 
 <h2 id="songs-of-conquest">Songs of Conquest</h2>
 <p><strong>Desarrollador</strong>: Lavapotion <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
-<strong>¿Cuándo estará a la venta?</strong>: Finales 2020 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/DdFv6ZnvLUo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</p>
+<strong>¿Cuándo estará a la venta?</strong>: Finales 2020</p>
+<div class="youtube-player" data-id="DdFv6ZnvLUo"></div>
 
 <h2 id="shenmue-3">Shenmue 3</h2>
 <p><strong>Desarrollador</strong>: Ys Net <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: noviembre</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aSAqTmwY2eY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="aSAqTmwY2eY"></div>
 
 <h2 id="per-aspera">Per Aspera</h2>
 <p><strong>Desarrollador</strong>: Tlön Industries <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TH7rl3oZUZs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="TH7rl3oZUZs"></div>
 
 <h2 id="auto-chess">Auto CHess</h2>
 <p><strong>Desarrollador</strong>: Drodo <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: este año</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TNDPU28X3Zc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="TNDPU28X3Zc"></div>
 
 <h2 id="valfaris">Valfaris</h2>
 <p><strong>Desarrollador</strong>: 2019 <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: Steel Mantis</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HOna9z_thIg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="HOna9z_thIg"></div>
 
 <h2 id="maneater">Maneater</h2>
 <p><strong>Desarrollador</strong>: Tripwire Interactive <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: Mediados de 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a1ixsDRnT_Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="a1ixsDRnT_Q"></div>
 
 <h2 id="terraria-journeys-end">Terraria: Journeys End</h2>
 <p><strong>Desarrollador</strong>: Re-Logic <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: Finales de 2019</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cV3Cfed4RBU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="cV3Cfed4RBU"></div>
 
 <h2 id="telling-lies">Telling Lies</h2>
 <p><strong>Desarrollador</strong>: Sam Barlow, Furious Bee Limited <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 2019</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C6fG5h32amU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="C6fG5h32amU"></div>
 
 <h2 id="cris-tales">Cris Tales</h2>
 <p><strong>Desarrollador</strong>: Dreams Uncorporated, SYCK <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RW9s86k2Y2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="RW9s86k2Y2o"></div>
 
 <h2 id="genesis-noir">Genesis Noir</h2>
 <p><strong>Desarrollador</strong>: Feral Cat Den <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: Antes, durante y después del Big Bang</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9d_zN8-puEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="9d_zN8-puEU"></div>
 
 <h2 id="el-hijo">El Hijo</h2>
 <p><strong>Desarrollador</strong>: Honing Studios <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: Por anunciar</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Smde5D2JNnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="Smde5D2JNnc"></div>
 
 <h2 id="final-fantasy-xiv-shadowbringers">Final Fantasy XIV: Shadowbringers</h2>
 <p><strong>Desarrollador</strong>: Square Enix <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 2 de julio de 2019</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CxHSSRjFH14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="CxHSSRjFH14"></div>
 
 <h2 id="romancing-saga-3-y-saga-scarlet-grace-ambitions">Romancing SaGa 3 y SaGa Scarlet Grace: Ambitions</h2>
 <p><strong>Desarrollador</strong>: Square Enix <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: Pronto</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NJ6J3qvV0cE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="NJ6J3qvV0cE"></div>
 
 <h2 id="outriders">Outriders</h2>
 <p><strong>Desarrollador</strong>: People Can fly <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: Verano 2020</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J0dyNDP5Vfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="J0dyNDP5Vfo"></div>
 
 <h2 id="oninaki">Oninaki</h2>
 <p><strong>Desarrollador</strong>: Tokyo RPG Factory <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 22 de agosto de 2019</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nwk7EUrFvQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="nwk7EUrFvQc"></div>
 
 <h2 id="final-fantasy-viii-remastered">Final Fantasy VIII Remastered</h2>
 <p><strong>Desarrollador</strong>: Square Enix <br />
 <strong>¿Saldrá para PC?</strong>: Sí <br />
 <strong>¿Cuándo estará a la venta?</strong>: 2019</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wpx2Z2CCjPs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="youtube-player" data-id="wpx2Z2CCjPs"></div>
 <p>No es un remake al nivel de Final Fantasy 7, pero la aclamada octava entrega de esta serie va a ser actualizada con texturas de alta resolución para dispositivos modernos.</p>
 
                 </div>
