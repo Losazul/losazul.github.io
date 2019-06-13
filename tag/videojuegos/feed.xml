@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/tag/videojuegos/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2019-06-13T13:08:14-04:00</updated>
+  <updated>2019-06-13T13:17:35-04:00</updated>
   <id>/tag/videojuegos/feed.xml</id>
 
   
@@ -40,7 +40,37 @@
       <content type="html" xml:base="/todos-juegos-pc-e3-2019/">&lt;!--more--&gt;
 &lt;!-- more --&gt;
 &lt;!-- ### INTRODUCCIÓN ### --&gt;
-&lt;script src=&quot;https://www.monitoresgaming.com/assets/js/lightyoutube.js&quot;&gt;&lt;/script&gt;
+&lt;script&gt;   /* Light YouTube Embeds by @labnol */
+        /* Web: http://labnol.org/?p=27941 */
+     
+        document.addEventListener(&quot;DOMContentLoaded&quot;,
+            function() {
+                var div, n,
+                    v = document.getElementsByClassName(&quot;youtube-player&quot;);
+                for (n = 0; n &lt; v.length; n++) {
+                    div = document.createElement(&quot;div&quot;);
+                    div.setAttribute(&quot;data-id&quot;, v[n].dataset.id);
+                    div.innerHTML = labnolThumb(v[n].dataset.id);
+                    div.onclick = labnolIframe;
+                    v[n].appendChild(div);
+                }
+            });
+     
+        function labnolThumb(id) {
+            var thumb = '&lt;img src=&quot;https://i.ytimg.com/vi/ID/hqdefault.jpg&quot;&gt;',
+                play = '&lt;div class=&quot;play&quot;&gt;&lt;/div&gt;';
+            return thumb.replace(&quot;ID&quot;, id) + play;
+        }
+     
+        function labnolIframe() {
+            var iframe = document.createElement(&quot;iframe&quot;);
+            var embed = &quot;https://www.youtube.com/embed/ID?autoplay=1&quot;;
+            iframe.setAttribute(&quot;src&quot;, embed.replace(&quot;ID&quot;, this.dataset.id));
+            iframe.setAttribute(&quot;frameborder&quot;, &quot;0&quot;);
+            iframe.setAttribute(&quot;allowfullscreen&quot;, &quot;1&quot;);
+            this.parentNode.replaceChild(iframe, this);
+        }     
+&lt;/script&gt;
 
 &lt;p&gt;Seguir la pista de la inmesa cantidad de juegos anunciados en la E3 es casi tan díficil como no perderse con la lista de nuevos títulos de Steam. Para ayudar, hemos recopilado una gran lista de todo lo que hemos visto que definitivamente (o posiblemente) van a salir para PC.&lt;/p&gt;
 
