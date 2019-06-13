@@ -198,41 +198,6 @@ into the {body} of the default.hbs template -->
                     <!--more-->
 <!-- more -->
 <!-- ### INTRODUCCIÓN ### -->
-<script>
-
-           /* Light YouTube Embeds by @labnol */
-        /* Web: http://labnol.org/?p=27941 */
-     
-        document.addEventListener("DOMContentLoaded",
-            function() {
-                var div, n,
-                    v = document.getElementsByClassName("youtube-player");
-                for (n = 0; n < v.length; n++) {
-                    div = document.createElement("div");
-                    div.setAttribute("data-id", v[n].dataset.id);
-                    div.innerHTML = labnolThumb(v[n].dataset.id);
-                    div.onclick = labnolIframe;
-                    v[n].appendChild(div);
-                }
-            });
-     
-        function labnolThumb(id) {
-            var thumb = '<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg">',
-                play = '<div class="play"></div>';
-            return thumb.replace("ID", id) + play;
-        }
-     
-        function labnolIframe() {
-            var iframe = document.createElement("iframe");
-            var embed = "https://www.youtube.com/embed/ID?autoplay=1";
-            iframe.setAttribute("src", embed.replace("ID", this.dataset.id));
-            iframe.setAttribute("frameborder", "0");
-            iframe.setAttribute("allowfullscreen", "1");
-            this.parentNode.replaceChild(iframe, this);
-        }     
-
-</script>
-
 <p>Seguir la pista de la inmesa cantidad de juegos anunciados en la E3 es casi tan díficil como no perderse con la lista de nuevos títulos de Steam. Para ayudar, hemos recopilado una gran lista de todo lo que hemos visto que definitivamente (o posiblemente) van a salir para PC.</p>
 
 <p>Actualizaremos esta lista a lo largo del E3, añadiendo nuevos trailers y aquello que descubramos en la semana. A la velocidad del E3, el artículo puede estar algo anticuado rápidamente, pero actualizaremos tan rápido como podamos.</p>
@@ -883,6 +848,10 @@ Como era de esperar, EA guardo tiempo para hablar sobre el FIFA 20. Parece estar
     </script>
     <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
     <script type="text/javascript" src="https://demo.ghost.io/assets/js/jquery.fitvids.js?v=724281a32e"></script>
+
+    <!-- youtube light -->
+
+    <script type="text/javascript" src="/assets/js/lightyoutube.js"></script>
 
 
     <!-- Paginator increased to "infinit" in _config.yml -->
