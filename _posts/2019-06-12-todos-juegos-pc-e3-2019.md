@@ -16,6 +16,8 @@ author: MG
 <!--more-->
 <!-- more -->
 <!-- ### INTRODUCCIÓN ### -->
+<script src="{{ site.meinvento }}assets/js/lightyoutube.js"></script>
+
 Seguir la pista de la inmesa cantidad de juegos anunciados en la E3 es casi tan díficil como no perderse con la lista de nuevos títulos de Steam. Para ayudar, hemos recopilado una gran lista de todo lo que hemos visto que definitivamente (o posiblemente) van a salir para PC. 
 
 Actualizaremos esta lista a lo largo del E3, añadiendo nuevos trailers y aquello que descubramos en la semana. A la velocidad del E3, el artículo puede estar algo anticuado rápidamente, pero actualizaremos tan rápido como podamos.
